@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to make Instagram Guides and 6 examples to inspire you](https://www.bwalkerwebdev.com/2022/03/21/how-to-make-instagram-guides-and-6-examples-to-inspire-you/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-make-instagram-guides-and-6-examples-to-inspire-you)
 - [Popular Design News of the Week: March 14, 2022 – March 20, 2022](https://www.bwalkerwebdev.com/2022/03/20/popular-design-news-of-the-week-march-14-2022-march-20-2022/?utm_source=rss&utm_medium=rss&utm_campaign=popular-design-news-of-the-week-march-14-2022-march-20-2022)
 - [6 Simple Steps to a Career in Web Design](https://www.bwalkerwebdev.com/2022/03/18/6-simple-steps-to-a-career-in-web-design/?utm_source=rss&utm_medium=rss&utm_campaign=6-simple-steps-to-a-career-in-web-design)
 - [12 Best WordPress Database Plugins – Expert Pick &lpar;2022&rpar;](https://www.bwalkerwebdev.com/2022/03/18/12-best-wordpress-database-plugins-expert-pick-2022/?utm_source=rss&utm_medium=rss&utm_campaign=12-best-wordpress-database-plugins-expert-pick-2022)
-- [30 TikTok Stats Marketers Need to Know in 2022](https://www.bwalkerwebdev.com/2022/03/17/30-tiktok-stats-marketers-need-to-know-in-2022/?utm_source=rss&utm_medium=rss&utm_campaign=30-tiktok-stats-marketers-need-to-know-in-2022)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
