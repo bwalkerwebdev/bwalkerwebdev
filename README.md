@@ -39,5 +39,5 @@
 
 <br />
 <div align="center">
-<span><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bwalkerwebdev&show_icons=true&locale=en&layout=compact" alt="bwalkerwebdev" width="45%" height="150px" /></span><span>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=bwalkerwebdev&show_icons=true&locale=en" alt="bwalkerwebdev" width="45%" height="150px"/></span><span><img src="https://github-readme-streak-stats.herokuapp.com/?user=bwalkerwebdev&" alt="bwalkerwebdev" width="45%" height="150px"/></span>
+</span><span>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=bwalkerwebdev&show_icons=true&locale=en" alt="bwalkerwebdev" width="45%" height="150px"/></span><span><img src="https://github-readme-streak-stats.herokuapp.com/?user=bwalkerwebdev&" alt="bwalkerwebdev" width="45%" height="150px"/><span><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bwalkerwebdev&show_icons=true&locale=en&layout=compact" alt="bwalkerwebdev" width="45%" height="150px" /></span>
 </div>
