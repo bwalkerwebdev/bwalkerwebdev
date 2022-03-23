@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Create a Members-Only WooCommerce Store &lpar;Step by Step&rpar;](https://www.bwalkerwebdev.com/2022/03/23/how-to-create-a-members-only-woocommerce-store-step-by-step/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-create-a-members-only-woocommerce-store-step-by-step)
 - [How elite brands get ahead with March Madness marketing](https://www.bwalkerwebdev.com/2022/03/22/how-elite-brands-get-ahead-with-march-madness-marketing/?utm_source=rss&utm_medium=rss&utm_campaign=how-elite-brands-get-ahead-with-march-madness-marketing)
 - [41 of the most important social media marketing statistics for 2022](https://www.bwalkerwebdev.com/2022/03/22/41-of-the-most-important-social-media-marketing-statistics-for-2022/?utm_source=rss&utm_medium=rss&utm_campaign=41-of-the-most-important-social-media-marketing-statistics-for-2022)
 - [How to Add or Remove Blank Space Between WordPress Blocks &lpar;4 Ways&rpar;](https://www.bwalkerwebdev.com/2022/03/22/how-to-add-or-remove-blank-space-between-wordpress-blocks-4-ways/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-add-or-remove-blank-space-between-wordpress-blocks-4-ways)
-- [3 Essential Design Trends, March 2022](https://www.bwalkerwebdev.com/2022/03/21/3-essential-design-trends-march-2022/?utm_source=rss&utm_medium=rss&utm_campaign=3-essential-design-trends-march-2022)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
