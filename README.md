@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How elite brands get ahead with March Madness marketing](https://www.bwalkerwebdev.com/2022/03/22/how-elite-brands-get-ahead-with-march-madness-marketing/?utm_source=rss&utm_medium=rss&utm_campaign=how-elite-brands-get-ahead-with-march-madness-marketing)
+- [41 of the most important social media marketing statistics for 2022](https://www.bwalkerwebdev.com/2022/03/22/41-of-the-most-important-social-media-marketing-statistics-for-2022/?utm_source=rss&utm_medium=rss&utm_campaign=41-of-the-most-important-social-media-marketing-statistics-for-2022)
 - [How to Add or Remove Blank Space Between WordPress Blocks &lpar;4 Ways&rpar;](https://www.bwalkerwebdev.com/2022/03/22/how-to-add-or-remove-blank-space-between-wordpress-blocks-4-ways/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-add-or-remove-blank-space-between-wordpress-blocks-4-ways)
 - [3 Essential Design Trends, March 2022](https://www.bwalkerwebdev.com/2022/03/21/3-essential-design-trends-march-2022/?utm_source=rss&utm_medium=rss&utm_campaign=3-essential-design-trends-march-2022)
-- [How to make Instagram Guides and 6 examples to inspire you](https://www.bwalkerwebdev.com/2022/03/21/how-to-make-instagram-guides-and-6-examples-to-inspire-you/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-make-instagram-guides-and-6-examples-to-inspire-you)
-- [How to Properly Use Focus Keyphrase in WordPress &lpar;Beginner’s Guide&rpar;](https://www.bwalkerwebdev.com/2022/03/21/how-to-properly-use-focus-keyphrase-in-wordpress-beginners-guide/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-properly-use-focus-keyphrase-in-wordpress-beginners-guide)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
