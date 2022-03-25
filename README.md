@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [44 Best Responsive WordPress Themes](https://www.bwalkerwebdev.com/2022/03/25/44-best-responsive-wordpress-themes/?utm_source=rss&utm_medium=rss&utm_campaign=44-best-responsive-wordpress-themes)
+- [24 Pinterest stats and facts marketers must know in 2022](https://www.bwalkerwebdev.com/2022/03/24/24-pinterest-stats-and-facts-marketers-must-know-in-2022/?utm_source=rss&utm_medium=rss&utm_campaign=24-pinterest-stats-and-facts-marketers-must-know-in-2022)
 - [How to Fix ‘The Site Is Experiencing Technical Difficulties’ in WordPress](https://www.bwalkerwebdev.com/2022/03/24/how-to-fix-the-site-is-experiencing-technical-difficulties-in-wordpress/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-fix-the-site-is-experiencing-technical-difficulties-in-wordpress)
 - [Overcoming Blank Page Paralysis](https://www.bwalkerwebdev.com/2022/03/23/overcoming-blank-page-paralysis/?utm_source=rss&utm_medium=rss&utm_campaign=overcoming-blank-page-paralysis)
-- [How to Create a Members-Only WooCommerce Store &lpar;Step by Step&rpar;](https://www.bwalkerwebdev.com/2022/03/23/how-to-create-a-members-only-woocommerce-store-step-by-step/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-create-a-members-only-woocommerce-store-step-by-step)
-- [How elite brands get ahead with March Madness marketing](https://www.bwalkerwebdev.com/2022/03/22/how-elite-brands-get-ahead-with-march-madness-marketing/?utm_source=rss&utm_medium=rss&utm_campaign=how-elite-brands-get-ahead-with-march-madness-marketing)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
