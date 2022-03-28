@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Add a PayPal Payment Form in WordPress &lpar;Step by Step&rpar;](https://www.bwalkerwebdev.com/2022/03/28/how-to-add-a-paypal-payment-form-in-wordpress-step-by-step/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-add-a-paypal-payment-form-in-wordpress-step-by-step)
+- [Popular Design News of the Week: March 21, 2022 – March 27, 2022](https://www.bwalkerwebdev.com/2022/03/27/popular-design-news-of-the-week-march-21-2022-march-27-2022/?utm_source=rss&utm_medium=rss&utm_campaign=popular-design-news-of-the-week-march-21-2022-march-27-2022)
 - [How to Build a Strong Brand Reputation](https://www.bwalkerwebdev.com/2022/03/25/how-to-build-a-strong-brand-reputation/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-build-a-strong-brand-reputation)
 - [44 Best Responsive WordPress Themes](https://www.bwalkerwebdev.com/2022/03/25/44-best-responsive-wordpress-themes/?utm_source=rss&utm_medium=rss&utm_campaign=44-best-responsive-wordpress-themes)
-- [24 Pinterest stats and facts marketers must know in 2022](https://www.bwalkerwebdev.com/2022/03/24/24-pinterest-stats-and-facts-marketers-must-know-in-2022/?utm_source=rss&utm_medium=rss&utm_campaign=24-pinterest-stats-and-facts-marketers-must-know-in-2022)
-- [How to Fix ‘The Site Is Experiencing Technical Difficulties’ in WordPress](https://www.bwalkerwebdev.com/2022/03/24/how-to-fix-the-site-is-experiencing-technical-difficulties-in-wordpress/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-fix-the-site-is-experiencing-technical-difficulties-in-wordpress)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
