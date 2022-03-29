@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Add a PayPal Payment Form in WordPress &lpar;Step by Step&rpar;](https://www.bwalkerwebdev.com/2022/03/28/how-to-add-a-paypal-payment-form-in-wordpress-step-by-step/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-add-a-paypal-payment-form-in-wordpress-step-by-step)
-- [Popular Design News of the Week: March 21, 2022 – March 27, 2022](https://www.bwalkerwebdev.com/2022/03/27/popular-design-news-of-the-week-march-21-2022-march-27-2022/?utm_source=rss&utm_medium=rss&utm_campaign=popular-design-news-of-the-week-march-21-2022-march-27-2022)
-- [How to Build a Strong Brand Reputation](https://www.bwalkerwebdev.com/2022/03/25/how-to-build-a-strong-brand-reputation/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-build-a-strong-brand-reputation)
-- [44 Best Responsive WordPress Themes](https://www.bwalkerwebdev.com/2022/03/25/44-best-responsive-wordpress-themes/?utm_source=rss&utm_medium=rss&utm_campaign=44-best-responsive-wordpress-themes)
+- [How to Customize Your WordPress Theme &lpar;Beginner’s Guide&rpar;](https://www.bwalkerwebdev.com/2022/03/29/how-to-customize-your-wordpress-theme-beginners-guide/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-customize-your-wordpress-theme-beginners-guide)
+- [9 Instagram trends to pay attention to in 2022](https://www.bwalkerwebdev.com/2022/03/28/9-instagram-trends-to-pay-attention-to-in-2022/?utm_source=rss&utm_medium=rss&utm_campaign=9-instagram-trends-to-pay-attention-to-in-2022)
+- [15 Best New Fonts, April 2022](https://www.bwalkerwebdev.com/2022/03/28/15-best-new-fonts-april-2022/?utm_source=rss&utm_medium=rss&utm_campaign=15-best-new-fonts-april-2022)
+- [How to build a competitive intelligence system that wins](https://www.bwalkerwebdev.com/2022/03/28/how-to-build-a-competitive-intelligence-system-that-wins/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-build-a-competitive-intelligence-system-that-wins)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
