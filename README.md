@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Restrict Usernames and User Emails in WordPress](https://www.bwalkerwebdev.com/2022/03/30/how-to-restrict-usernames-and-user-emails-in-wordpress/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-restrict-usernames-and-user-emails-in-wordpress)
+- [Everything you need to know about WhatsApp marketing](https://www.bwalkerwebdev.com/2022/03/29/everything-you-need-to-know-about-whatsapp-marketing/?utm_source=rss&utm_medium=rss&utm_campaign=everything-you-need-to-know-about-whatsapp-marketing)
 - [How to Customize Your WordPress Theme &lpar;Beginner’s Guide&rpar;](https://www.bwalkerwebdev.com/2022/03/29/how-to-customize-your-wordpress-theme-beginners-guide/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-customize-your-wordpress-theme-beginners-guide)
 - [9 Instagram trends to pay attention to in 2022](https://www.bwalkerwebdev.com/2022/03/28/9-instagram-trends-to-pay-attention-to-in-2022/?utm_source=rss&utm_medium=rss&utm_campaign=9-instagram-trends-to-pay-attention-to-in-2022)
-- [15 Best New Fonts, April 2022](https://www.bwalkerwebdev.com/2022/03/28/15-best-new-fonts-april-2022/?utm_source=rss&utm_medium=rss&utm_campaign=15-best-new-fonts-april-2022)
-- [How to build a competitive intelligence system that wins](https://www.bwalkerwebdev.com/2022/03/28/how-to-build-a-competitive-intelligence-system-that-wins/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-build-a-competitive-intelligence-system-that-wins)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
