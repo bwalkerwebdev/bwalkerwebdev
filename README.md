@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Add Ebook Downloads in WordPress](https://www.bwalkerwebdev.com/2022/03/31/how-to-add-ebook-downloads-in-wordpress/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-add-ebook-downloads-in-wordpress)
 - [The complete guide to Twitter listening](https://www.bwalkerwebdev.com/2022/03/30/the-complete-guide-to-twitter-listening/?utm_source=rss&utm_medium=rss&utm_campaign=the-complete-guide-to-twitter-listening)
 - [Who rules social media? Industry benchmarks for 2022](https://www.bwalkerwebdev.com/2022/03/30/who-rules-social-media-industry-benchmarks-for-2022/?utm_source=rss&utm_medium=rss&utm_campaign=who-rules-social-media-industry-benchmarks-for-2022)
-- [How to Restrict Usernames and User Emails in WordPress](https://www.bwalkerwebdev.com/2022/03/30/how-to-restrict-usernames-and-user-emails-in-wordpress/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-restrict-usernames-and-user-emails-in-wordpress)
-- [Everything you need to know about WhatsApp marketing](https://www.bwalkerwebdev.com/2022/03/29/everything-you-need-to-know-about-whatsapp-marketing/?utm_source=rss&utm_medium=rss&utm_campaign=everything-you-need-to-know-about-whatsapp-marketing)
+- [Helvetica: Overused Cliché or Modernist Classic?](https://www.bwalkerwebdev.com/2022/03/30/helvetica-overused-cliche-or-modernist-classic/?utm_source=rss&utm_medium=rss&utm_campaign=helvetica-overused-cliche-or-modernist-classic)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
