@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The complete guide to Twitter listening](https://www.bwalkerwebdev.com/2022/03/30/the-complete-guide-to-twitter-listening/?utm_source=rss&utm_medium=rss&utm_campaign=the-complete-guide-to-twitter-listening)
+- [Who rules social media? Industry benchmarks for 2022](https://www.bwalkerwebdev.com/2022/03/30/who-rules-social-media-industry-benchmarks-for-2022/?utm_source=rss&utm_medium=rss&utm_campaign=who-rules-social-media-industry-benchmarks-for-2022)
 - [How to Restrict Usernames and User Emails in WordPress](https://www.bwalkerwebdev.com/2022/03/30/how-to-restrict-usernames-and-user-emails-in-wordpress/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-restrict-usernames-and-user-emails-in-wordpress)
 - [Everything you need to know about WhatsApp marketing](https://www.bwalkerwebdev.com/2022/03/29/everything-you-need-to-know-about-whatsapp-marketing/?utm_source=rss&utm_medium=rss&utm_campaign=everything-you-need-to-know-about-whatsapp-marketing)
-- [How to Customize Your WordPress Theme &lpar;Beginner’s Guide&rpar;](https://www.bwalkerwebdev.com/2022/03/29/how-to-customize-your-wordpress-theme-beginners-guide/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-customize-your-wordpress-theme-beginners-guide)
-- [9 Instagram trends to pay attention to in 2022](https://www.bwalkerwebdev.com/2022/03/28/9-instagram-trends-to-pay-attention-to-in-2022/?utm_source=rss&utm_medium=rss&utm_campaign=9-instagram-trends-to-pay-attention-to-in-2022)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
