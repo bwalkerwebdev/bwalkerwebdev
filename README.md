@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [9 Best Internal Linking Plugins for WordPress &lpar;Automatic + Manual&rpar;](https://www.bwalkerwebdev.com/2022/04/01/9-best-internal-linking-plugins-for-wordpress-automatic-manual/?utm_source=rss&utm_medium=rss&utm_campaign=9-best-internal-linking-plugins-for-wordpress-automatic-manual)
 - [Instagram Reels vs. TikTok: which is the best short-form video platform?](https://www.bwalkerwebdev.com/2022/03/31/instagram-reels-vs-tiktok-which-is-the-best-short-form-video-platform/?utm_source=rss&utm_medium=rss&utm_campaign=instagram-reels-vs-tiktok-which-is-the-best-short-form-video-platform)
 - [How to Add Ebook Downloads in WordPress](https://www.bwalkerwebdev.com/2022/03/31/how-to-add-ebook-downloads-in-wordpress/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-add-ebook-downloads-in-wordpress)
 - [The complete guide to Twitter listening](https://www.bwalkerwebdev.com/2022/03/30/the-complete-guide-to-twitter-listening/?utm_source=rss&utm_medium=rss&utm_campaign=the-complete-guide-to-twitter-listening)
-- [Who rules social media? Industry benchmarks for 2022](https://www.bwalkerwebdev.com/2022/03/30/who-rules-social-media-industry-benchmarks-for-2022/?utm_source=rss&utm_medium=rss&utm_campaign=who-rules-social-media-industry-benchmarks-for-2022)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
