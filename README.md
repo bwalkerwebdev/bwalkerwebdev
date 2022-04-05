@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [10 steps to performing a successful Instagram audit](https://www.bwalkerwebdev.com/2022/04/04/10-steps-to-performing-a-successful-instagram-audit/?utm_source=rss&utm_medium=rss&utm_campaign=10-steps-to-performing-a-successful-instagram-audit)
 - [How to Add Custom Items to Specific WordPress Menus](https://www.bwalkerwebdev.com/2022/04/04/how-to-add-custom-items-to-specific-wordpress-menus/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-add-custom-items-to-specific-wordpress-menus)
 - [Popular Design News of the Week: March 28, 2022 – April 3, 2022](https://www.bwalkerwebdev.com/2022/04/03/popular-design-news-of-the-week-march-28-2022-april-3-2022/?utm_source=rss&utm_medium=rss&utm_campaign=popular-design-news-of-the-week-march-28-2022-april-3-2022)
 - [PureNFT Disrupts the NFT Market](https://www.bwalkerwebdev.com/2022/04/01/purenft-disrupts-the-nft-market/?utm_source=rss&utm_medium=rss&utm_campaign=purenft-disrupts-the-nft-market)
-- [9 Best Internal Linking Plugins for WordPress &lpar;Automatic + Manual&rpar;](https://www.bwalkerwebdev.com/2022/04/01/9-best-internal-linking-plugins-for-wordpress-automatic-manual/?utm_source=rss&utm_medium=rss&utm_campaign=9-best-internal-linking-plugins-for-wordpress-automatic-manual)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
