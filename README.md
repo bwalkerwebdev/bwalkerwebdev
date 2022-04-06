@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Accept Apple Pay in WordPress &lpar;The EASY Way&rpar;](https://www.bwalkerwebdev.com/2022/04/06/how-to-accept-apple-pay-in-wordpress-the-easy-way/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-accept-apple-pay-in-wordpress-the-easy-way)
+- [12 Facebook video metrics brands need to benchmark right now](https://www.bwalkerwebdev.com/2022/04/05/12-facebook-video-metrics-brands-need-to-benchmark-right-now/?utm_source=rss&utm_medium=rss&utm_campaign=12-facebook-video-metrics-brands-need-to-benchmark-right-now)
 - [Welcome WooFunnels to the WPBeginner Growth Fund](https://www.bwalkerwebdev.com/2022/04/05/welcome-woofunnels-to-the-wpbeginner-growth-fund/?utm_source=rss&utm_medium=rss&utm_campaign=welcome-woofunnels-to-the-wpbeginner-growth-fund)
 - [10 steps to performing a successful Instagram audit](https://www.bwalkerwebdev.com/2022/04/04/10-steps-to-performing-a-successful-instagram-audit/?utm_source=rss&utm_medium=rss&utm_campaign=10-steps-to-performing-a-successful-instagram-audit)
-- [20 Best New Sites, April 2022](https://www.bwalkerwebdev.com/2022/04/04/20-best-new-sites-april-2022/?utm_source=rss&utm_medium=rss&utm_campaign=20-best-new-sites-april-2022)
-- [How to Add Custom Items to Specific WordPress Menus](https://www.bwalkerwebdev.com/2022/04/04/how-to-add-custom-items-to-specific-wordpress-menus/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-add-custom-items-to-specific-wordpress-menus)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
