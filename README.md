@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [6 masterful examples of brands selling on Facebook Shops](https://www.bwalkerwebdev.com/2022/04/06/6-masterful-examples-of-brands-selling-on-facebook-shops/?utm_source=rss&utm_medium=rss&utm_campaign=6-masterful-examples-of-brands-selling-on-facebook-shops)
 - [How to Accept Apple Pay in WordPress &lpar;The EASY Way&rpar;](https://www.bwalkerwebdev.com/2022/04/06/how-to-accept-apple-pay-in-wordpress-the-easy-way/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-accept-apple-pay-in-wordpress-the-easy-way)
 - [12 Facebook video metrics brands need to benchmark right now](https://www.bwalkerwebdev.com/2022/04/05/12-facebook-video-metrics-brands-need-to-benchmark-right-now/?utm_source=rss&utm_medium=rss&utm_campaign=12-facebook-video-metrics-brands-need-to-benchmark-right-now)
 - [Welcome WooFunnels to the WPBeginner Growth Fund](https://www.bwalkerwebdev.com/2022/04/05/welcome-woofunnels-to-the-wpbeginner-growth-fund/?utm_source=rss&utm_medium=rss&utm_campaign=welcome-woofunnels-to-the-wpbeginner-growth-fund)
-- [10 steps to performing a successful Instagram audit](https://www.bwalkerwebdev.com/2022/04/04/10-steps-to-performing-a-successful-instagram-audit/?utm_source=rss&utm_medium=rss&utm_campaign=10-steps-to-performing-a-successful-instagram-audit)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
