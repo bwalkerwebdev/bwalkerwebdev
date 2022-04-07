@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Bulk Schedule Posts in WordPress &lpar;Step by Step&rpar;](https://www.bwalkerwebdev.com/2022/04/07/how-to-bulk-schedule-posts-in-wordpress-step-by-step/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-bulk-schedule-posts-in-wordpress-step-by-step)
+- [5 Best Newsletter Platforms for Startups in 2022](https://www.bwalkerwebdev.com/2022/04/06/5-best-newsletter-platforms-for-startups-in-2022/?utm_source=rss&utm_medium=rss&utm_campaign=5-best-newsletter-platforms-for-startups-in-2022)
 - [6 masterful examples of brands selling on Facebook Shops](https://www.bwalkerwebdev.com/2022/04/06/6-masterful-examples-of-brands-selling-on-facebook-shops/?utm_source=rss&utm_medium=rss&utm_campaign=6-masterful-examples-of-brands-selling-on-facebook-shops)
 - [How to Accept Apple Pay in WordPress &lpar;The EASY Way&rpar;](https://www.bwalkerwebdev.com/2022/04/06/how-to-accept-apple-pay-in-wordpress-the-easy-way/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-accept-apple-pay-in-wordpress-the-easy-way)
-- [12 Facebook video metrics brands need to benchmark right now](https://www.bwalkerwebdev.com/2022/04/05/12-facebook-video-metrics-brands-need-to-benchmark-right-now/?utm_source=rss&utm_medium=rss&utm_campaign=12-facebook-video-metrics-brands-need-to-benchmark-right-now)
-- [Welcome WooFunnels to the WPBeginner Growth Fund](https://www.bwalkerwebdev.com/2022/04/05/welcome-woofunnels-to-the-wpbeginner-growth-fund/?utm_source=rss&utm_medium=rss&utm_campaign=welcome-woofunnels-to-the-wpbeginner-growth-fund)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
