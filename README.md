@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Hide Featured Images on Individual Posts in WordPress](https://www.bwalkerwebdev.com/2022/04/08/how-to-hide-featured-images-on-individual-posts-in-wordpress/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-hide-featured-images-on-individual-posts-in-wordpress)
+- [15 Best CSS Frameworks: Professional Bootstrap and Foundation Alternatives](https://www.bwalkerwebdev.com/2022/04/08/15-best-css-frameworks-professional-bootstrap-and-foundation-alternatives/?utm_source=rss&utm_medium=rss&utm_campaign=15-best-css-frameworks-professional-bootstrap-and-foundation-alternatives)
 - [6 Best Auto Dialer Software for Small Business in 2022 &lpar;Compared&rpar;](https://www.bwalkerwebdev.com/2022/04/08/6-best-auto-dialer-software-for-small-business-in-2022-compared/?utm_source=rss&utm_medium=rss&utm_campaign=6-best-auto-dialer-software-for-small-business-in-2022-compared)
 - [Co-marketing 101: how brand partnerships can help you grow faster](https://www.bwalkerwebdev.com/2022/04/07/co-marketing-101-how-brand-partnerships-can-help-you-grow-faster/?utm_source=rss&utm_medium=rss&utm_campaign=co-marketing-101-how-brand-partnerships-can-help-you-grow-faster)
-- [How to Bulk Schedule Posts in WordPress &lpar;Step by Step&rpar;](https://www.bwalkerwebdev.com/2022/04/07/how-to-bulk-schedule-posts-in-wordpress-step-by-step/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-bulk-schedule-posts-in-wordpress-step-by-step)
-- [5 Best Newsletter Platforms for Startups in 2022](https://www.bwalkerwebdev.com/2022/04/06/5-best-newsletter-platforms-for-startups-in-2022/?utm_source=rss&utm_medium=rss&utm_campaign=5-best-newsletter-platforms-for-startups-in-2022)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
