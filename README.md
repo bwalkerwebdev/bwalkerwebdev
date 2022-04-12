@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [20 public relations stats to know for better communications outcomes in 2022](https://www.bwalkerwebdev.com/2022/04/12/20-public-relations-stats-to-know-for-better-communications-outcomes-in-2022/?utm_source=rss&utm_medium=rss&utm_campaign=20-public-relations-stats-to-know-for-better-communications-outcomes-in-2022)
+- [How to Create a Collapsible Sidebar Menu in WordPress &lpar;The Easy Way&rpar;](https://www.bwalkerwebdev.com/2022/04/12/how-to-create-a-collapsible-sidebar-menu-in-wordpress-the-easy-way/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-create-a-collapsible-sidebar-menu-in-wordpress-the-easy-way)
 - [Exciting New Tools For Designers, April 2022](https://www.bwalkerwebdev.com/2022/04/11/exciting-new-tools-for-designers-april-2022/?utm_source=rss&utm_medium=rss&utm_campaign=exciting-new-tools-for-designers-april-2022)
 - [How to Preload Links in WordPress for Faster Loading Speeds](https://www.bwalkerwebdev.com/2022/04/11/how-to-preload-links-in-wordpress-for-faster-loading-speeds/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-preload-links-in-wordpress-for-faster-loading-speeds)
-- [Popular Design News of the Week: April 4, 2022 – April 10, 2022](https://www.bwalkerwebdev.com/2022/04/10/popular-design-news-of-the-week-april-4-2022-april-10-2022/?utm_source=rss&utm_medium=rss&utm_campaign=popular-design-news-of-the-week-april-4-2022-april-10-2022)
-- [How to Hide Featured Images on Individual Posts in WordPress](https://www.bwalkerwebdev.com/2022/04/08/how-to-hide-featured-images-on-individual-posts-in-wordpress/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-hide-featured-images-on-individual-posts-in-wordpress)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
