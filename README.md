@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Create a Booking Form in WordPress](https://www.bwalkerwebdev.com/2022/04/13/how-to-create-a-booking-form-in-wordpress/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-create-a-booking-form-in-wordpress)
+- [How to Do a Facebook Audit in 30 Minutes or Less](https://www.bwalkerwebdev.com/2022/04/12/how-to-do-a-facebook-audit-in-30-minutes-or-less/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-do-a-facebook-audit-in-30-minutes-or-less)
 - [20 public relations stats to know for better communications outcomes in 2022](https://www.bwalkerwebdev.com/2022/04/12/20-public-relations-stats-to-know-for-better-communications-outcomes-in-2022/?utm_source=rss&utm_medium=rss&utm_campaign=20-public-relations-stats-to-know-for-better-communications-outcomes-in-2022)
 - [How to Create a Collapsible Sidebar Menu in WordPress &lpar;The Easy Way&rpar;](https://www.bwalkerwebdev.com/2022/04/12/how-to-create-a-collapsible-sidebar-menu-in-wordpress-the-easy-way/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-create-a-collapsible-sidebar-menu-in-wordpress-the-easy-way)
-- [Exciting New Tools For Designers, April 2022](https://www.bwalkerwebdev.com/2022/04/11/exciting-new-tools-for-designers-april-2022/?utm_source=rss&utm_medium=rss&utm_campaign=exciting-new-tools-for-designers-april-2022)
-- [How to Preload Links in WordPress for Faster Loading Speeds](https://www.bwalkerwebdev.com/2022/04/11/how-to-preload-links-in-wordpress-for-faster-loading-speeds/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-preload-links-in-wordpress-for-faster-loading-speeds)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
