@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Booking Form in WordPress](https://www.bwalkerwebdev.com/2022/04/13/how-to-create-a-booking-form-in-wordpress/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-create-a-booking-form-in-wordpress)
-- [How to Do a Facebook Audit in 30 Minutes or Less](https://www.bwalkerwebdev.com/2022/04/12/how-to-do-a-facebook-audit-in-30-minutes-or-less/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-do-a-facebook-audit-in-30-minutes-or-less)
-- [20 public relations stats to know for better communications outcomes in 2022](https://www.bwalkerwebdev.com/2022/04/12/20-public-relations-stats-to-know-for-better-communications-outcomes-in-2022/?utm_source=rss&utm_medium=rss&utm_campaign=20-public-relations-stats-to-know-for-better-communications-outcomes-in-2022)
-- [How to Create a Collapsible Sidebar Menu in WordPress &lpar;The Easy Way&rpar;](https://www.bwalkerwebdev.com/2022/04/12/how-to-create-a-collapsible-sidebar-menu-in-wordpress-the-easy-way/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-create-a-collapsible-sidebar-menu-in-wordpress-the-easy-way)
+- [How to create a social media crisis communication plan](https://www.bwalkerwebdev.com/2022/04/14/how-to-create-a-social-media-crisis-communication-plan/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-create-a-social-media-crisis-communication-plan)
+- [Elementor vs Divi vs SeedProd &lpar;Compared&rpar; – Which is the Best?](https://www.bwalkerwebdev.com/2022/04/14/elementor-vs-divi-vs-seedprod-compared-which-is-the-best/?utm_source=rss&utm_medium=rss&utm_campaign=elementor-vs-divi-vs-seedprod-compared-which-is-the-best)
+- [The best times to post on Instagram 2022](https://www.bwalkerwebdev.com/2022/04/13/the-best-times-to-post-on-instagram-2022/?utm_source=rss&utm_medium=rss&utm_campaign=the-best-times-to-post-on-instagram-2022)
+- [Case Study: Redesigning Todoist for Android](https://www.bwalkerwebdev.com/2022/04/13/case-study-redesigning-todoist-for-android/?utm_source=rss&utm_medium=rss&utm_campaign=case-study-redesigning-todoist-for-android)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
