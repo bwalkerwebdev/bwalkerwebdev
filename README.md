@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [14 Best YouTube Channels for Designers in 2022](https://www.bwalkerwebdev.com/2022/04/15/14-best-youtube-channels-for-designers-in-2022/?utm_source=rss&utm_medium=rss&utm_campaign=14-best-youtube-channels-for-designers-in-2022)
+- [26 Best WordPress Magazine Themes of 2022 [FREE + PAID]](https://www.bwalkerwebdev.com/2022/04/15/26-best-wordpress-magazine-themes-of-2022-free-paid/?utm_source=rss&utm_medium=rss&utm_campaign=26-best-wordpress-magazine-themes-of-2022-free-paid)
+- [How to Make a Seamless Instagram Carousel Post](https://www.bwalkerwebdev.com/2022/04/14/how-to-make-a-seamless-instagram-carousel-post/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-make-a-seamless-instagram-carousel-post)
 - [How to create a social media crisis communication plan](https://www.bwalkerwebdev.com/2022/04/14/how-to-create-a-social-media-crisis-communication-plan/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-create-a-social-media-crisis-communication-plan)
-- [Elementor vs Divi vs SeedProd &lpar;Compared&rpar; – Which is the Best?](https://www.bwalkerwebdev.com/2022/04/14/elementor-vs-divi-vs-seedprod-compared-which-is-the-best/?utm_source=rss&utm_medium=rss&utm_campaign=elementor-vs-divi-vs-seedprod-compared-which-is-the-best)
-- [The best times to post on Instagram 2022](https://www.bwalkerwebdev.com/2022/04/13/the-best-times-to-post-on-instagram-2022/?utm_source=rss&utm_medium=rss&utm_campaign=the-best-times-to-post-on-instagram-2022)
-- [Case Study: Redesigning Todoist for Android](https://www.bwalkerwebdev.com/2022/04/13/case-study-redesigning-todoist-for-android/?utm_source=rss&utm_medium=rss&utm_campaign=case-study-redesigning-todoist-for-android)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
