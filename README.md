@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Popular Design News of the Week: April 11, 2022 – April 17, 2022](https://www.bwalkerwebdev.com/2022/04/17/popular-design-news-of-the-week-april-11-2022-april-17-2022/?utm_source=rss&utm_medium=rss&utm_campaign=popular-design-news-of-the-week-april-11-2022-april-17-2022)
 - [14 Best YouTube Channels for Designers in 2022](https://www.bwalkerwebdev.com/2022/04/15/14-best-youtube-channels-for-designers-in-2022/?utm_source=rss&utm_medium=rss&utm_campaign=14-best-youtube-channels-for-designers-in-2022)
 - [26 Best WordPress Magazine Themes of 2022 [FREE + PAID]](https://www.bwalkerwebdev.com/2022/04/15/26-best-wordpress-magazine-themes-of-2022-free-paid/?utm_source=rss&utm_medium=rss&utm_campaign=26-best-wordpress-magazine-themes-of-2022-free-paid)
 - [How to Make a Seamless Instagram Carousel Post](https://www.bwalkerwebdev.com/2022/04/14/how-to-make-a-seamless-instagram-carousel-post/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-make-a-seamless-instagram-carousel-post)
-- [How to create a social media crisis communication plan](https://www.bwalkerwebdev.com/2022/04/14/how-to-create-a-social-media-crisis-communication-plan/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-create-a-social-media-crisis-communication-plan)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
