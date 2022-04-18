@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [When UX Goes Bad &lpar;and How to Fix It&rpar;](https://www.bwalkerwebdev.com/2022/04/18/when-ux-goes-bad-and-how-to-fix-it/?utm_source=rss&utm_medium=rss&utm_campaign=when-ux-goes-bad-and-how-to-fix-it)
 - [What vertical networks mean for the future of social media](https://www.bwalkerwebdev.com/2022/04/18/what-vertical-networks-mean-for-the-future-of-social-media/?utm_source=rss&utm_medium=rss&utm_campaign=what-vertical-networks-mean-for-the-future-of-social-media)
+- [How to Add “Buy Now Pay Later” Payment Plans to WordPress](https://www.bwalkerwebdev.com/2022/04/18/how-to-add-buy-now-pay-later-payment-plans-to-wordpress/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-add-buy-now-pay-later-payment-plans-to-wordpress)
 - [Popular Design News of the Week: April 11, 2022 – April 17, 2022](https://www.bwalkerwebdev.com/2022/04/17/popular-design-news-of-the-week-april-11-2022-april-17-2022/?utm_source=rss&utm_medium=rss&utm_campaign=popular-design-news-of-the-week-april-11-2022-april-17-2022)
-- [14 Best YouTube Channels for Designers in 2022](https://www.bwalkerwebdev.com/2022/04/15/14-best-youtube-channels-for-designers-in-2022/?utm_source=rss&utm_medium=rss&utm_campaign=14-best-youtube-channels-for-designers-in-2022)
-- [26 Best WordPress Magazine Themes of 2022 [FREE + PAID]](https://www.bwalkerwebdev.com/2022/04/15/26-best-wordpress-magazine-themes-of-2022-free-paid/?utm_source=rss&utm_medium=rss&utm_campaign=26-best-wordpress-magazine-themes-of-2022-free-paid)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
