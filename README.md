@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Conversational marketing: What it means for your social media strategy](https://www.bwalkerwebdev.com/2022/04/19/conversational-marketing-what-it-means-for-your-social-media-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=conversational-marketing-what-it-means-for-your-social-media-strategy)
+- [How to Split Large XML Files in WordPress &lpar;Free Tool&rpar;](https://www.bwalkerwebdev.com/2022/04/19/how-to-split-large-xml-files-in-wordpress-free-tool/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-split-large-xml-files-in-wordpress-free-tool)
+- [How to conduct a Twitter audit to improve your brand’s presence](https://www.bwalkerwebdev.com/2022/04/18/how-to-conduct-a-twitter-audit-to-improve-your-brands-presence/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-conduct-a-twitter-audit-to-improve-your-brands-presence)
 - [When UX Goes Bad &lpar;and How to Fix It&rpar;](https://www.bwalkerwebdev.com/2022/04/18/when-ux-goes-bad-and-how-to-fix-it/?utm_source=rss&utm_medium=rss&utm_campaign=when-ux-goes-bad-and-how-to-fix-it)
-- [What vertical networks mean for the future of social media](https://www.bwalkerwebdev.com/2022/04/18/what-vertical-networks-mean-for-the-future-of-social-media/?utm_source=rss&utm_medium=rss&utm_campaign=what-vertical-networks-mean-for-the-future-of-social-media)
-- [How to Add “Buy Now Pay Later” Payment Plans to WordPress](https://www.bwalkerwebdev.com/2022/04/18/how-to-add-buy-now-pay-later-payment-plans-to-wordpress/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-add-buy-now-pay-later-payment-plans-to-wordpress)
-- [Popular Design News of the Week: April 11, 2022 – April 17, 2022](https://www.bwalkerwebdev.com/2022/04/17/popular-design-news-of-the-week-april-11-2022-april-17-2022/?utm_source=rss&utm_medium=rss&utm_campaign=popular-design-news-of-the-week-april-11-2022-april-17-2022)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
