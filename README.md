@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [16 unexpected ways to use WhatsApp for business](https://www.bwalkerwebdev.com/2022/04/20/16-unexpected-ways-to-use-whatsapp-for-business/?utm_source=rss&utm_medium=rss&utm_campaign=16-unexpected-ways-to-use-whatsapp-for-business)
+- [Brand collaborations 101: e.l.f. and Dunkin’ prove the power of partnership](https://www.bwalkerwebdev.com/2022/04/19/brand-collaborations-101-e-l-f-and-dunkin-prove-the-power-of-partnership/?utm_source=rss&utm_medium=rss&utm_campaign=brand-collaborations-101-e-l-f-and-dunkin-prove-the-power-of-partnership)
 - [Conversational marketing: What it means for your social media strategy](https://www.bwalkerwebdev.com/2022/04/19/conversational-marketing-what-it-means-for-your-social-media-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=conversational-marketing-what-it-means-for-your-social-media-strategy)
 - [How to Split Large XML Files in WordPress &lpar;Free Tool&rpar;](https://www.bwalkerwebdev.com/2022/04/19/how-to-split-large-xml-files-in-wordpress-free-tool/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-split-large-xml-files-in-wordpress-free-tool)
-- [How to conduct a Twitter audit to improve your brand’s presence](https://www.bwalkerwebdev.com/2022/04/18/how-to-conduct-a-twitter-audit-to-improve-your-brands-presence/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-conduct-a-twitter-audit-to-improve-your-brands-presence)
-- [When UX Goes Bad &lpar;and How to Fix It&rpar;](https://www.bwalkerwebdev.com/2022/04/18/when-ux-goes-bad-and-how-to-fix-it/?utm_source=rss&utm_medium=rss&utm_campaign=when-ux-goes-bad-and-how-to-fix-it)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
