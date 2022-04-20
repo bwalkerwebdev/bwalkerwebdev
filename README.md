@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Psychology in Web Design: How to Use it Right](https://www.bwalkerwebdev.com/2022/04/20/psychology-in-web-design-how-to-use-it-right/?utm_source=rss&utm_medium=rss&utm_campaign=psychology-in-web-design-how-to-use-it-right)
 - [16 unexpected ways to use WhatsApp for business](https://www.bwalkerwebdev.com/2022/04/20/16-unexpected-ways-to-use-whatsapp-for-business/?utm_source=rss&utm_medium=rss&utm_campaign=16-unexpected-ways-to-use-whatsapp-for-business)
+- [How to Create a Sales Page in WordPress &lpar;That Converts&rpar;](https://www.bwalkerwebdev.com/2022/04/20/how-to-create-a-sales-page-in-wordpress-that-converts/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-create-a-sales-page-in-wordpress-that-converts)
 - [Brand collaborations 101: e.l.f. and Dunkin’ prove the power of partnership](https://www.bwalkerwebdev.com/2022/04/19/brand-collaborations-101-e-l-f-and-dunkin-prove-the-power-of-partnership/?utm_source=rss&utm_medium=rss&utm_campaign=brand-collaborations-101-e-l-f-and-dunkin-prove-the-power-of-partnership)
-- [Conversational marketing: What it means for your social media strategy](https://www.bwalkerwebdev.com/2022/04/19/conversational-marketing-what-it-means-for-your-social-media-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=conversational-marketing-what-it-means-for-your-social-media-strategy)
-- [How to Split Large XML Files in WordPress &lpar;Free Tool&rpar;](https://www.bwalkerwebdev.com/2022/04/19/how-to-split-large-xml-files-in-wordpress-free-tool/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-split-large-xml-files-in-wordpress-free-tool)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
