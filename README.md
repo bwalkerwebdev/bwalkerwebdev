@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Move Comments Between WordPress Posts](https://www.bwalkerwebdev.com/2022/04/21/how-to-move-comments-between-wordpress-posts/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-move-comments-between-wordpress-posts)
+- [8 Ways to Make Money on Instagram in 2022](https://www.bwalkerwebdev.com/2022/04/20/8-ways-to-make-money-on-instagram-in-2022/?utm_source=rss&utm_medium=rss&utm_campaign=8-ways-to-make-money-on-instagram-in-2022)
 - [Psychology in Web Design: How to Use it Right](https://www.bwalkerwebdev.com/2022/04/20/psychology-in-web-design-how-to-use-it-right/?utm_source=rss&utm_medium=rss&utm_campaign=psychology-in-web-design-how-to-use-it-right)
 - [16 unexpected ways to use WhatsApp for business](https://www.bwalkerwebdev.com/2022/04/20/16-unexpected-ways-to-use-whatsapp-for-business/?utm_source=rss&utm_medium=rss&utm_campaign=16-unexpected-ways-to-use-whatsapp-for-business)
-- [How to Create a Sales Page in WordPress &lpar;That Converts&rpar;](https://www.bwalkerwebdev.com/2022/04/20/how-to-create-a-sales-page-in-wordpress-that-converts/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-create-a-sales-page-in-wordpress-that-converts)
-- [Brand collaborations 101: e.l.f. and Dunkin’ prove the power of partnership](https://www.bwalkerwebdev.com/2022/04/19/brand-collaborations-101-e-l-f-and-dunkin-prove-the-power-of-partnership/?utm_source=rss&utm_medium=rss&utm_campaign=brand-collaborations-101-e-l-f-and-dunkin-prove-the-power-of-partnership)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
