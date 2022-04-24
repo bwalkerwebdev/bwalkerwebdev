@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Popular Design News of the Week: April 18, 2022 – April 24, 2022](https://www.bwalkerwebdev.com/2022/04/24/popular-design-news-of-the-week-april-18-2022-april-24-2022/?utm_source=rss&utm_medium=rss&utm_campaign=popular-design-news-of-the-week-april-18-2022-april-24-2022)
 - [10 Best Places to Find Website Themes in 2022](https://www.bwalkerwebdev.com/2022/04/22/10-best-places-to-find-website-themes-in-2022/?utm_source=rss&utm_medium=rss&utm_campaign=10-best-places-to-find-website-themes-in-2022)
 - [6 Best WordPress Event Plugins Compared &lpar;2022&rpar;](https://www.bwalkerwebdev.com/2022/04/22/6-best-wordpress-event-plugins-compared-2022/?utm_source=rss&utm_medium=rss&utm_campaign=6-best-wordpress-event-plugins-compared-2022)
 - [6 Steps to Conduct Deep Facebook Analysis](https://www.bwalkerwebdev.com/2022/04/21/6-steps-to-conduct-deep-facebook-analysis/?utm_source=rss&utm_medium=rss&utm_campaign=6-steps-to-conduct-deep-facebook-analysis)
-- [How to Move Comments Between WordPress Posts](https://www.bwalkerwebdev.com/2022/04/21/how-to-move-comments-between-wordpress-posts/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-move-comments-between-wordpress-posts)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
