@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Minify CSS / JavaScript Files in WordPress &lpar;3 Ways&rpar;](https://www.bwalkerwebdev.com/2022/04/26/how-to-minify-css-javascript-files-in-wordpress-3-ways/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-minify-css-javascript-files-in-wordpress-3-ways)
 - [How to use Instagram for B2B marketing](https://www.bwalkerwebdev.com/2022/04/25/how-to-use-instagram-for-b2b-marketing/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-use-instagram-for-b2b-marketing)
 - [20 Best New Sites, May 2022](https://www.bwalkerwebdev.com/2022/04/25/20-best-new-sites-may-2022/?utm_source=rss&utm_medium=rss&utm_campaign=20-best-new-sites-may-2022)
 - [What’s Coming in WordPress 6.0 &lpar;Features and Screenshots&rpar;](https://www.bwalkerwebdev.com/2022/04/25/whats-coming-in-wordpress-6-0-features-and-screenshots/?utm_source=rss&utm_medium=rss&utm_campaign=whats-coming-in-wordpress-6-0-features-and-screenshots)
-- [Popular Design News of the Week: April 18, 2022 – April 24, 2022](https://www.bwalkerwebdev.com/2022/04/24/popular-design-news-of-the-week-april-18-2022-april-24-2022/?utm_source=rss&utm_medium=rss&utm_campaign=popular-design-news-of-the-week-april-18-2022-april-24-2022)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
