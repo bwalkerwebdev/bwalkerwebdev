@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Side Hustles for Web Design Professionals: How to Make Some Extra Cash](https://www.bwalkerwebdev.com/2022/04/27/side-hustles-for-web-design-professionals-how-to-make-some-extra-cash/?utm_source=rss&utm_medium=rss&utm_campaign=side-hustles-for-web-design-professionals-how-to-make-some-extra-cash)
-- [How to Embed a Google Map in Contact Forms &lpar;With Map Pin&rpar;](https://www.bwalkerwebdev.com/2022/04/27/how-to-embed-a-google-map-in-contact-forms-with-map-pin/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-embed-a-google-map-in-contact-forms-with-map-pin)
 - [How to create an executive communications strategy that builds your business](https://www.bwalkerwebdev.com/2022/04/26/how-to-create-an-executive-communications-strategy-that-builds-your-business/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-create-an-executive-communications-strategy-that-builds-your-business)
 - [10 tips on how to effectively manage your Instagram followers](https://www.bwalkerwebdev.com/2022/04/26/10-tips-on-how-to-effectively-manage-your-instagram-followers/?utm_source=rss&utm_medium=rss&utm_campaign=10-tips-on-how-to-effectively-manage-your-instagram-followers)
+- [How to Minify CSS / JavaScript Files in WordPress &lpar;3 Ways&rpar;](https://www.bwalkerwebdev.com/2022/04/26/how-to-minify-css-javascript-files-in-wordpress-3-ways/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-minify-css-javascript-files-in-wordpress-3-ways)
+- [How to use Instagram for B2B marketing](https://www.bwalkerwebdev.com/2022/04/25/how-to-use-instagram-for-b2b-marketing/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-use-instagram-for-b2b-marketing)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
