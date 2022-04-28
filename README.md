@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The 8 best URL shorteners for engagement and tracking in 2022](https://www.bwalkerwebdev.com/2022/04/27/the-8-best-url-shorteners-for-engagement-and-tracking-in-2022/?utm_source=rss&utm_medium=rss&utm_campaign=the-8-best-url-shorteners-for-engagement-and-tracking-in-2022)
 - [Side Hustles for Web Design Professionals: How to Make Some Extra Cash](https://www.bwalkerwebdev.com/2022/04/27/side-hustles-for-web-design-professionals-how-to-make-some-extra-cash/?utm_source=rss&utm_medium=rss&utm_campaign=side-hustles-for-web-design-professionals-how-to-make-some-extra-cash)
 - [How to Embed a Google Map in Contact Forms &lpar;With Map Pin&rpar;](https://www.bwalkerwebdev.com/2022/04/27/how-to-embed-a-google-map-in-contact-forms-with-map-pin/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-embed-a-google-map-in-contact-forms-with-map-pin)
 - [How to create an executive communications strategy that builds your business](https://www.bwalkerwebdev.com/2022/04/26/how-to-create-an-executive-communications-strategy-that-builds-your-business/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-create-an-executive-communications-strategy-that-builds-your-business)
-- [10 tips on how to effectively manage your Instagram followers](https://www.bwalkerwebdev.com/2022/04/26/10-tips-on-how-to-effectively-manage-your-instagram-followers/?utm_source=rss&utm_medium=rss&utm_campaign=10-tips-on-how-to-effectively-manage-your-instagram-followers)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
