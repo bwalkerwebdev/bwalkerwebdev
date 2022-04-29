@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [3 Quick Tricks to Boost Customer Retention](https://www.bwalkerwebdev.com/2022/04/29/3-quick-tricks-to-boost-customer-retention/?utm_source=rss&utm_medium=rss&utm_campaign=3-quick-tricks-to-boost-customer-retention)
+- [12 Signs Your WordPress Site Is Hacked &lpar;And How to Fix It&rpar;](https://www.bwalkerwebdev.com/2022/04/29/12-signs-your-wordpress-site-is-hacked-and-how-to-fix-it/?utm_source=rss&utm_medium=rss&utm_campaign=12-signs-your-wordpress-site-is-hacked-and-how-to-fix-it)
 - [11 corporate communications tools to boost team performance](https://www.bwalkerwebdev.com/2022/04/28/11-corporate-communications-tools-to-boost-team-performance/?utm_source=rss&utm_medium=rss&utm_campaign=11-corporate-communications-tools-to-boost-team-performance)
 - [Always up-to-date guide to social media image sizes](https://www.bwalkerwebdev.com/2022/04/28/always-up-to-date-guide-to-social-media-image-sizes/?utm_source=rss&utm_medium=rss&utm_campaign=always-up-to-date-guide-to-social-media-image-sizes)
-- [How to Fix Error 521 with WordPress and Cloudflare](https://www.bwalkerwebdev.com/2022/04/28/how-to-fix-error-521-with-wordpress-and-cloudflare/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-fix-error-521-with-wordpress-and-cloudflare)
-- [The 8 best URL shorteners for engagement and tracking in 2022](https://www.bwalkerwebdev.com/2022/04/27/the-8-best-url-shorteners-for-engagement-and-tracking-in-2022/?utm_source=rss&utm_medium=rss&utm_campaign=the-8-best-url-shorteners-for-engagement-and-tracking-in-2022)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
