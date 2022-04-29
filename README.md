@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [11 corporate communications tools to boost team performance](https://www.bwalkerwebdev.com/2022/04/28/11-corporate-communications-tools-to-boost-team-performance/?utm_source=rss&utm_medium=rss&utm_campaign=11-corporate-communications-tools-to-boost-team-performance)
+- [Always up-to-date guide to social media image sizes](https://www.bwalkerwebdev.com/2022/04/28/always-up-to-date-guide-to-social-media-image-sizes/?utm_source=rss&utm_medium=rss&utm_campaign=always-up-to-date-guide-to-social-media-image-sizes)
 - [How to Fix Error 521 with WordPress and Cloudflare](https://www.bwalkerwebdev.com/2022/04/28/how-to-fix-error-521-with-wordpress-and-cloudflare/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-fix-error-521-with-wordpress-and-cloudflare)
 - [The 8 best URL shorteners for engagement and tracking in 2022](https://www.bwalkerwebdev.com/2022/04/27/the-8-best-url-shorteners-for-engagement-and-tracking-in-2022/?utm_source=rss&utm_medium=rss&utm_campaign=the-8-best-url-shorteners-for-engagement-and-tracking-in-2022)
-- [Side Hustles for Web Design Professionals: How to Make Some Extra Cash](https://www.bwalkerwebdev.com/2022/04/27/side-hustles-for-web-design-professionals-how-to-make-some-extra-cash/?utm_source=rss&utm_medium=rss&utm_campaign=side-hustles-for-web-design-professionals-how-to-make-some-extra-cash)
-- [How to Embed a Google Map in Contact Forms &lpar;With Map Pin&rpar;](https://www.bwalkerwebdev.com/2022/04/27/how-to-embed-a-google-map-in-contact-forms-with-map-pin/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-embed-a-google-map-in-contact-forms-with-map-pin)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
