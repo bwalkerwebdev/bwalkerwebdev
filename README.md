@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Popular Design News of the Week: April 25, 2022 – May 1, 2022](https://www.bwalkerwebdev.com/2022/05/01/popular-design-news-of-the-week-april-25-2022-may-1-2022/?utm_source=rss&utm_medium=rss&utm_campaign=popular-design-news-of-the-week-april-25-2022-may-1-2022)
 - [3 Quick Tricks to Boost Customer Retention](https://www.bwalkerwebdev.com/2022/04/29/3-quick-tricks-to-boost-customer-retention/?utm_source=rss&utm_medium=rss&utm_campaign=3-quick-tricks-to-boost-customer-retention)
 - [12 Signs Your WordPress Site Is Hacked &lpar;And How to Fix It&rpar;](https://www.bwalkerwebdev.com/2022/04/29/12-signs-your-wordpress-site-is-hacked-and-how-to-fix-it/?utm_source=rss&utm_medium=rss&utm_campaign=12-signs-your-wordpress-site-is-hacked-and-how-to-fix-it)
 - [11 corporate communications tools to boost team performance](https://www.bwalkerwebdev.com/2022/04/28/11-corporate-communications-tools-to-boost-team-performance/?utm_source=rss&utm_medium=rss&utm_campaign=11-corporate-communications-tools-to-boost-team-performance)
-- [Always up-to-date guide to social media image sizes](https://www.bwalkerwebdev.com/2022/04/28/always-up-to-date-guide-to-social-media-image-sizes/?utm_source=rss&utm_medium=rss&utm_campaign=always-up-to-date-guide-to-social-media-image-sizes)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
