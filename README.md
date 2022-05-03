@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Beginner’s Guide: How to Use WordPress Block Patterns](https://www.bwalkerwebdev.com/2022/05/03/beginners-guide-how-to-use-wordpress-block-patterns/?utm_source=rss&utm_medium=rss&utm_campaign=beginners-guide-how-to-use-wordpress-block-patterns)
 - [The TikTok algorithm explained](https://www.bwalkerwebdev.com/2022/05/02/the-tiktok-algorithm-explained/?utm_source=rss&utm_medium=rss&utm_campaign=the-tiktok-algorithm-explained)
 - [Social commerce trends and misconceptions: What leaders need to consider](https://www.bwalkerwebdev.com/2022/05/02/social-commerce-trends-and-misconceptions-what-leaders-need-to-consider/?utm_source=rss&utm_medium=rss&utm_campaign=social-commerce-trends-and-misconceptions-what-leaders-need-to-consider)
 - [3 Essential Design Trends, May 2022](https://www.bwalkerwebdev.com/2022/05/02/3-essential-design-trends-may-2022/?utm_source=rss&utm_medium=rss&utm_campaign=3-essential-design-trends-may-2022)
-- [How to Customize WooCommerce Product Search Results Page](https://www.bwalkerwebdev.com/2022/05/02/how-to-customize-woocommerce-product-search-results-page/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-customize-woocommerce-product-search-results-page)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
