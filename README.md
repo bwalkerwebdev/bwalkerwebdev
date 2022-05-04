@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Design Patterns: How to Create Simple Interfaces](https://www.bwalkerwebdev.com/2022/05/04/design-patterns-how-to-create-simple-interfaces/?utm_source=rss&utm_medium=rss&utm_campaign=design-patterns-how-to-create-simple-interfaces)
+- [How to Easily Add a Download Link in WordPress &lpar;3 Ways&rpar;](https://www.bwalkerwebdev.com/2022/05/04/how-to-easily-add-a-download-link-in-wordpress-3-ways/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-easily-add-a-download-link-in-wordpress-3-ways)
 - [8 of the toughest social media marketing challenges &lpar;and how to overcome them&rpar;](https://www.bwalkerwebdev.com/2022/05/03/8-of-the-toughest-social-media-marketing-challenges-and-how-to-overcome-them/?utm_source=rss&utm_medium=rss&utm_campaign=8-of-the-toughest-social-media-marketing-challenges-and-how-to-overcome-them)
 - [Beginner’s Guide: How to Use WordPress Block Patterns](https://www.bwalkerwebdev.com/2022/05/03/beginners-guide-how-to-use-wordpress-block-patterns/?utm_source=rss&utm_medium=rss&utm_campaign=beginners-guide-how-to-use-wordpress-block-patterns)
-- [The TikTok algorithm explained](https://www.bwalkerwebdev.com/2022/05/02/the-tiktok-algorithm-explained/?utm_source=rss&utm_medium=rss&utm_campaign=the-tiktok-algorithm-explained)
-- [Social commerce trends and misconceptions: What leaders need to consider](https://www.bwalkerwebdev.com/2022/05/02/social-commerce-trends-and-misconceptions-what-leaders-need-to-consider/?utm_source=rss&utm_medium=rss&utm_campaign=social-commerce-trends-and-misconceptions-what-leaders-need-to-consider)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
