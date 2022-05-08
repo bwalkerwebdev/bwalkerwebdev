@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Popular Design News of the Week: May 2, 2022 – May 8, 2022](https://www.bwalkerwebdev.com/2022/05/08/popular-design-news-of-the-week-may-2-2022-may-8-2022/?utm_source=rss&utm_medium=rss&utm_campaign=popular-design-news-of-the-week-may-2-2022-may-8-2022)
 - [How to Set a Default Featured Image in WordPress &lpar;Easy Way&rpar;](https://www.bwalkerwebdev.com/2022/05/07/how-to-set-a-default-featured-image-in-wordpress-easy-way/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-set-a-default-featured-image-in-wordpress-easy-way)
 - [How to Find Web Design Clients in 2022](https://www.bwalkerwebdev.com/2022/05/06/how-to-find-web-design-clients-in-2022/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-find-web-design-clients-in-2022)
 - [21 Best WordPress Full Site Editing Themes of 2022 &lpar;Mostly Free&rpar;](https://www.bwalkerwebdev.com/2022/05/06/21-best-wordpress-full-site-editing-themes-of-2022-mostly-free/?utm_source=rss&utm_medium=rss&utm_campaign=21-best-wordpress-full-site-editing-themes-of-2022-mostly-free)
-- [Sprout on Sprout: 3 use cases for Tagging](https://www.bwalkerwebdev.com/2022/05/05/sprout-on-sprout-3-use-cases-for-tagging/?utm_source=rss&utm_medium=rss&utm_campaign=sprout-on-sprout-3-use-cases-for-tagging)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
