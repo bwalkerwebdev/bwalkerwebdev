@@ -22,9 +22,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [11 Social messaging apps every marketer should know in 2022](https://www.bwalkerwebdev.com/2022/05/10/11-social-messaging-apps-every-marketer-should-know-in-2022/?utm_source=rss&utm_medium=rss&utm_campaign=11-social-messaging-apps-every-marketer-should-know-in-2022)
+- [How to Add Next / Previous Links in WordPress &lpar;Ultimate Guide&rpar;](https://www.bwalkerwebdev.com/2022/05/10/how-to-add-next-previous-links-in-wordpress-ultimate-guide/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-add-next-previous-links-in-wordpress-ultimate-guide)
 - [15 Best New Fonts, May 2022](https://www.bwalkerwebdev.com/2022/05/09/15-best-new-fonts-may-2022/?utm_source=rss&utm_medium=rss&utm_campaign=15-best-new-fonts-may-2022)
 - [How to Accept ACH Payments in WordPress](https://www.bwalkerwebdev.com/2022/05/09/how-to-accept-ach-payments-in-wordpress/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-accept-ach-payments-in-wordpress)
-- [Popular Design News of the Week: May 2, 2022 – May 8, 2022](https://www.bwalkerwebdev.com/2022/05/08/popular-design-news-of-the-week-may-2-2022-may-8-2022/?utm_source=rss&utm_medium=rss&utm_campaign=popular-design-news-of-the-week-may-2-2022-may-8-2022)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
