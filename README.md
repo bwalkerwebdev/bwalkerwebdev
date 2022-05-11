@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The best brand marketing we’ve seen on social media in the last 5 years](https://www.bwalkerwebdev.com/2022/05/10/the-best-brand-marketing-weve-seen-on-social-media-in-the-last-5-years/?utm_source=rss&utm_medium=rss&utm_campaign=the-best-brand-marketing-weve-seen-on-social-media-in-the-last-5-years)
+- [The complete list of Instagram features for marketing experts](https://www.bwalkerwebdev.com/2022/05/10/the-complete-list-of-instagram-features-for-marketing-experts/?utm_source=rss&utm_medium=rss&utm_campaign=the-complete-list-of-instagram-features-for-marketing-experts)
 - [11 Social messaging apps every marketer should know in 2022](https://www.bwalkerwebdev.com/2022/05/10/11-social-messaging-apps-every-marketer-should-know-in-2022/?utm_source=rss&utm_medium=rss&utm_campaign=11-social-messaging-apps-every-marketer-should-know-in-2022)
 - [How to Add Next / Previous Links in WordPress &lpar;Ultimate Guide&rpar;](https://www.bwalkerwebdev.com/2022/05/10/how-to-add-next-previous-links-in-wordpress-ultimate-guide/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-add-next-previous-links-in-wordpress-ultimate-guide)
-- [15 Best New Fonts, May 2022](https://www.bwalkerwebdev.com/2022/05/09/15-best-new-fonts-may-2022/?utm_source=rss&utm_medium=rss&utm_campaign=15-best-new-fonts-may-2022)
-- [How to Accept ACH Payments in WordPress](https://www.bwalkerwebdev.com/2022/05/09/how-to-accept-ach-payments-in-wordpress/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-accept-ach-payments-in-wordpress)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
