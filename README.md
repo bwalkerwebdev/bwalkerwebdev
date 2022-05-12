@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What you need to know before creating a social media RFP &lpar;template included&rpar;](https://www.bwalkerwebdev.com/2022/05/11/what-you-need-to-know-before-creating-a-social-media-rfp-template-included/?utm_source=rss&utm_medium=rss&utm_campaign=what-you-need-to-know-before-creating-a-social-media-rfp-template-included)
 - [Designers Should Code: Build an App From Scratch](https://www.bwalkerwebdev.com/2022/05/11/designers-should-code-build-an-app-from-scratch/?utm_source=rss&utm_medium=rss&utm_campaign=designers-should-code-build-an-app-from-scratch)
 - [How to Sell Digital Downloads on WordPress &lpar;Beginner’s Guide&rpar;](https://www.bwalkerwebdev.com/2022/05/11/how-to-sell-digital-downloads-on-wordpress-beginners-guide/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-sell-digital-downloads-on-wordpress-beginners-guide)
 - [The best brand marketing we’ve seen on social media in the last 5 years](https://www.bwalkerwebdev.com/2022/05/10/the-best-brand-marketing-weve-seen-on-social-media-in-the-last-5-years/?utm_source=rss&utm_medium=rss&utm_campaign=the-best-brand-marketing-weve-seen-on-social-media-in-the-last-5-years)
+- [The complete list of Instagram features for marketing experts](https://www.bwalkerwebdev.com/2022/05/10/the-complete-list-of-instagram-features-for-marketing-experts/?utm_source=rss&utm_medium=rss&utm_campaign=the-complete-list-of-instagram-features-for-marketing-experts)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
