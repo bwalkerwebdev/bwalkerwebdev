@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Take Your First Steps in Web Design](https://www.bwalkerwebdev.com/2022/05/13/how-to-take-your-first-steps-in-web-design/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-take-your-first-steps-in-web-design)
+- [6 Best Patreon Alternatives to Monetize Your Audience in 2022](https://www.bwalkerwebdev.com/2022/05/13/6-best-patreon-alternatives-to-monetize-your-audience-in-2022/?utm_source=rss&utm_medium=rss&utm_campaign=6-best-patreon-alternatives-to-monetize-your-audience-in-2022)
 - [TikTok analytics: a guide for marketers](https://www.bwalkerwebdev.com/2022/05/12/tiktok-analytics-a-guide-for-marketers/?utm_source=rss&utm_medium=rss&utm_campaign=tiktok-analytics-a-guide-for-marketers)
 - [How to Add Document Collaboration in WordPress Block Editor &lpar;Google-Doc Style&rpar;](https://www.bwalkerwebdev.com/2022/05/12/how-to-add-document-collaboration-in-wordpress-block-editor-google-doc-style/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-add-document-collaboration-in-wordpress-block-editor-google-doc-style)
-- [What you need to know before creating a social media RFP &lpar;template included&rpar;](https://www.bwalkerwebdev.com/2022/05/11/what-you-need-to-know-before-creating-a-social-media-rfp-template-included/?utm_source=rss&utm_medium=rss&utm_campaign=what-you-need-to-know-before-creating-a-social-media-rfp-template-included)
-- [Designers Should Code: Build an App From Scratch](https://www.bwalkerwebdev.com/2022/05/11/designers-should-code-build-an-app-from-scratch/?utm_source=rss&utm_medium=rss&utm_campaign=designers-should-code-build-an-app-from-scratch)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
