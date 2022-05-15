@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Popular Design News of the Week: May 9, 2022 – May 15, 2022](https://www.bwalkerwebdev.com/2022/05/15/popular-design-news-of-the-week-may-9-2022-may-15-2022/?utm_source=rss&utm_medium=rss&utm_campaign=popular-design-news-of-the-week-may-9-2022-may-15-2022)
 - [How To Take Your First Steps in Web Design](https://www.bwalkerwebdev.com/2022/05/13/how-to-take-your-first-steps-in-web-design/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-take-your-first-steps-in-web-design)
 - [6 Best Patreon Alternatives to Monetize Your Audience in 2022](https://www.bwalkerwebdev.com/2022/05/13/6-best-patreon-alternatives-to-monetize-your-audience-in-2022/?utm_source=rss&utm_medium=rss&utm_campaign=6-best-patreon-alternatives-to-monetize-your-audience-in-2022)
 - [TikTok analytics: a guide for marketers](https://www.bwalkerwebdev.com/2022/05/12/tiktok-analytics-a-guide-for-marketers/?utm_source=rss&utm_medium=rss&utm_campaign=tiktok-analytics-a-guide-for-marketers)
-- [How to Add Document Collaboration in WordPress Block Editor &lpar;Google-Doc Style&rpar;](https://www.bwalkerwebdev.com/2022/05/12/how-to-add-document-collaboration-in-wordpress-block-editor-google-doc-style/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-add-document-collaboration-in-wordpress-block-editor-google-doc-style)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
