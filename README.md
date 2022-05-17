@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How a link in bio Instagram tool can grow your brand](https://www.bwalkerwebdev.com/2022/05/16/how-a-link-in-bio-instagram-tool-can-grow-your-brand/?utm_source=rss&utm_medium=rss&utm_campaign=how-a-link-in-bio-instagram-tool-can-grow-your-brand)
 - [How to use Google’s Business Messages to engage with your customers](https://www.bwalkerwebdev.com/2022/05/16/how-to-use-googles-business-messages-to-engage-with-your-customers/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-use-googles-business-messages-to-engage-with-your-customers)
 - [Exciting New Tools for Designers, May 2022](https://www.bwalkerwebdev.com/2022/05/16/exciting-new-tools-for-designers-may-2022/?utm_source=rss&utm_medium=rss&utm_campaign=exciting-new-tools-for-designers-may-2022)
 - [How to Fix WordPress Search Not Working &lpar;5 Common Errors&rpar;](https://www.bwalkerwebdev.com/2022/05/16/how-to-fix-wordpress-search-not-working-5-common-errors/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-fix-wordpress-search-not-working-5-common-errors)
-- [Popular Design News of the Week: May 9, 2022 – May 15, 2022](https://www.bwalkerwebdev.com/2022/05/15/popular-design-news-of-the-week-may-9-2022-may-15-2022/?utm_source=rss&utm_medium=rss&utm_campaign=popular-design-news-of-the-week-may-9-2022-may-15-2022)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
