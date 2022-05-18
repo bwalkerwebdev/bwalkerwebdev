@@ -22,9 +22,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [8 social selling metrics to measure success](https://www.bwalkerwebdev.com/2022/05/18/8-social-selling-metrics-to-measure-success/?utm_source=rss&utm_medium=rss&utm_campaign=8-social-selling-metrics-to-measure-success)
+- [What Even Is Web Design in 2022?](https://www.bwalkerwebdev.com/2022/05/18/what-even-is-web-design-in-2022/?utm_source=rss&utm_medium=rss&utm_campaign=what-even-is-web-design-in-2022)
 - [Sprout on Sprout: Behind the scenes with our 3-person social media team](https://www.bwalkerwebdev.com/2022/05/18/sprout-on-sprout-behind-the-scenes-with-our-3-person-social-media-team/?utm_source=rss&utm_medium=rss&utm_campaign=sprout-on-sprout-behind-the-scenes-with-our-3-person-social-media-team)
-- [How to Create a Custom WordPress Block &lpar;Easy Way&rpar;](https://www.bwalkerwebdev.com/2022/05/17/how-to-create-a-custom-wordpress-block-easy-way/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-create-a-custom-wordpress-block-easy-way)
-- [How a link in bio Instagram tool can grow your brand](https://www.bwalkerwebdev.com/2022/05/16/how-a-link-in-bio-instagram-tool-can-grow-your-brand/?utm_source=rss&utm_medium=rss&utm_campaign=how-a-link-in-bio-instagram-tool-can-grow-your-brand)
+- [How to Accept Google Pay in WordPress &lpar;The Easy Way&rpar;](https://www.bwalkerwebdev.com/2022/05/18/how-to-accept-google-pay-in-wordpress-the-easy-way/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-accept-google-pay-in-wordpress-the-easy-way)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
