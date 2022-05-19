@@ -22,9 +22,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Facebook pixel: a complete guide for digital marketers](https://www.bwalkerwebdev.com/2022/05/19/facebook-pixel-a-complete-guide-for-digital-marketers/?utm_source=rss&utm_medium=rss&utm_campaign=facebook-pixel-a-complete-guide-for-digital-marketers)
+- [How to Add a Blog Post Checklist to the WordPress Editor](https://www.bwalkerwebdev.com/2022/05/19/how-to-add-a-blog-post-checklist-to-the-wordpress-editor/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-add-a-blog-post-checklist-to-the-wordpress-editor)
 - [8 social selling metrics to measure success](https://www.bwalkerwebdev.com/2022/05/18/8-social-selling-metrics-to-measure-success/?utm_source=rss&utm_medium=rss&utm_campaign=8-social-selling-metrics-to-measure-success)
 - [What Even Is Web Design in 2022?](https://www.bwalkerwebdev.com/2022/05/18/what-even-is-web-design-in-2022/?utm_source=rss&utm_medium=rss&utm_campaign=what-even-is-web-design-in-2022)
-- [Sprout on Sprout: Behind the scenes with our 3-person social media team](https://www.bwalkerwebdev.com/2022/05/18/sprout-on-sprout-behind-the-scenes-with-our-3-person-social-media-team/?utm_source=rss&utm_medium=rss&utm_campaign=sprout-on-sprout-behind-the-scenes-with-our-3-person-social-media-team)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
