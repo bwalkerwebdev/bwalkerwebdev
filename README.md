@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [9 Ways To Drive Traffic To Your WordPress Blog](https://www.bwalkerwebdev.com/2022/05/20/9-ways-to-drive-traffic-to-your-wordpress-blog/?utm_source=rss&utm_medium=rss&utm_campaign=9-ways-to-drive-traffic-to-your-wordpress-blog)
+- [8 Best Small Business Cell Phone Plans for 2022 &lpar;with Free Option&rpar;](https://www.bwalkerwebdev.com/2022/05/20/8-best-small-business-cell-phone-plans-for-2022-with-free-option/?utm_source=rss&utm_medium=rss&utm_campaign=8-best-small-business-cell-phone-plans-for-2022-with-free-option)
 - [Facebook pixel: a complete guide for digital marketers](https://www.bwalkerwebdev.com/2022/05/19/facebook-pixel-a-complete-guide-for-digital-marketers/?utm_source=rss&utm_medium=rss&utm_campaign=facebook-pixel-a-complete-guide-for-digital-marketers)
 - [How to Add a Blog Post Checklist to the WordPress Editor](https://www.bwalkerwebdev.com/2022/05/19/how-to-add-a-blog-post-checklist-to-the-wordpress-editor/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-add-a-blog-post-checklist-to-the-wordpress-editor)
-- [8 social selling metrics to measure success](https://www.bwalkerwebdev.com/2022/05/18/8-social-selling-metrics-to-measure-success/?utm_source=rss&utm_medium=rss&utm_campaign=8-social-selling-metrics-to-measure-success)
-- [What Even Is Web Design in 2022?](https://www.bwalkerwebdev.com/2022/05/18/what-even-is-web-design-in-2022/?utm_source=rss&utm_medium=rss&utm_campaign=what-even-is-web-design-in-2022)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
