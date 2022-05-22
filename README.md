@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Popular Design News of the Week: May 16, 2022 – May 22, 2022](https://www.bwalkerwebdev.com/2022/05/22/popular-design-news-of-the-week-may-16-2022-may-22-2022/?utm_source=rss&utm_medium=rss&utm_campaign=popular-design-news-of-the-week-may-16-2022-may-22-2022)
+- [How to Add a Reading Progress Bar in WordPress Posts](https://www.bwalkerwebdev.com/2022/05/22/how-to-add-a-reading-progress-bar-in-wordpress-posts/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-add-a-reading-progress-bar-in-wordpress-posts)
 - [Custom Rugs – Adding a Lasting Design to Your Home](https://www.bwalkerwebdev.com/2022/05/21/custom-rugs-adding-a-lasting-design-to-your-home/?utm_source=rss&utm_medium=rss&utm_campaign=custom-rugs-adding-a-lasting-design-to-your-home)
 - [9 Ways To Drive Traffic To Your WordPress Blog](https://www.bwalkerwebdev.com/2022/05/20/9-ways-to-drive-traffic-to-your-wordpress-blog/?utm_source=rss&utm_medium=rss&utm_campaign=9-ways-to-drive-traffic-to-your-wordpress-blog)
-- [8 Best Small Business Cell Phone Plans for 2022 &lpar;with Free Option&rpar;](https://www.bwalkerwebdev.com/2022/05/20/8-best-small-business-cell-phone-plans-for-2022-with-free-option/?utm_source=rss&utm_medium=rss&utm_campaign=8-best-small-business-cell-phone-plans-for-2022-with-free-option)
-- [Facebook pixel: a complete guide for digital marketers](https://www.bwalkerwebdev.com/2022/05/19/facebook-pixel-a-complete-guide-for-digital-marketers/?utm_source=rss&utm_medium=rss&utm_campaign=facebook-pixel-a-complete-guide-for-digital-marketers)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
