@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [20 Best New Sites, June 2022](https://www.bwalkerwebdev.com/2022/05/23/20-best-new-sites-june-2022/?utm_source=rss&utm_medium=rss&utm_campaign=20-best-new-sites-june-2022)
+- [How to Add Advanced Gift Cards in WooCommerce &lpar;Easy Way&rpar;](https://www.bwalkerwebdev.com/2022/05/23/how-to-add-advanced-gift-cards-in-woocommerce-easy-way/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-add-advanced-gift-cards-in-woocommerce-easy-way)
 - [Popular Design News of the Week: May 16, 2022 – May 22, 2022](https://www.bwalkerwebdev.com/2022/05/22/popular-design-news-of-the-week-may-16-2022-may-22-2022/?utm_source=rss&utm_medium=rss&utm_campaign=popular-design-news-of-the-week-may-16-2022-may-22-2022)
 - [How to Add a Reading Progress Bar in WordPress Posts](https://www.bwalkerwebdev.com/2022/05/22/how-to-add-a-reading-progress-bar-in-wordpress-posts/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-add-a-reading-progress-bar-in-wordpress-posts)
-- [Custom Rugs – Adding a Lasting Design to Your Home](https://www.bwalkerwebdev.com/2022/05/21/custom-rugs-adding-a-lasting-design-to-your-home/?utm_source=rss&utm_medium=rss&utm_campaign=custom-rugs-adding-a-lasting-design-to-your-home)
-- [9 Ways To Drive Traffic To Your WordPress Blog](https://www.bwalkerwebdev.com/2022/05/20/9-ways-to-drive-traffic-to-your-wordpress-blog/?utm_source=rss&utm_medium=rss&utm_campaign=9-ways-to-drive-traffic-to-your-wordpress-blog)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
