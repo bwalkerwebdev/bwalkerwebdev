@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Paid, owned and earned media: What they are and where social fits into the mix](https://www.bwalkerwebdev.com/2022/05/24/paid-owned-and-earned-media-what-they-are-and-where-social-fits-into-the-mix/?utm_source=rss&utm_medium=rss&utm_campaign=paid-owned-and-earned-media-what-they-are-and-where-social-fits-into-the-mix)
+- [How to use Facebook Messenger: a guide for businesses](https://www.bwalkerwebdev.com/2022/05/23/how-to-use-facebook-messenger-a-guide-for-businesses/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-use-facebook-messenger-a-guide-for-businesses)
 - [20 Best New Sites, June 2022](https://www.bwalkerwebdev.com/2022/05/23/20-best-new-sites-june-2022/?utm_source=rss&utm_medium=rss&utm_campaign=20-best-new-sites-june-2022)
 - [How to Add Advanced Gift Cards in WooCommerce &lpar;Easy Way&rpar;](https://www.bwalkerwebdev.com/2022/05/23/how-to-add-advanced-gift-cards-in-woocommerce-easy-way/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-add-advanced-gift-cards-in-woocommerce-easy-way)
-- [Popular Design News of the Week: May 16, 2022 – May 22, 2022](https://www.bwalkerwebdev.com/2022/05/22/popular-design-news-of-the-week-may-16-2022-may-22-2022/?utm_source=rss&utm_medium=rss&utm_campaign=popular-design-news-of-the-week-may-16-2022-may-22-2022)
-- [How to Add a Reading Progress Bar in WordPress Posts](https://www.bwalkerwebdev.com/2022/05/22/how-to-add-a-reading-progress-bar-in-wordpress-posts/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-add-a-reading-progress-bar-in-wordpress-posts)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
