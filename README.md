@@ -22,9 +22,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [How the Sprout Social Salesforce integration strengthens your team](https://www.bwalkerwebdev.com/2022/05/25/how-the-sprout-social-salesforce-integration-strengthens-your-team/?utm_source=rss&utm_medium=rss&utm_campaign=how-the-sprout-social-salesforce-integration-strengthens-your-team)
+- [How to Switch to Google Analytics 4 in WordPress &lpar;The RIGHT Way&rpar;](https://www.bwalkerwebdev.com/2022/05/25/how-to-switch-to-google-analytics-4-in-wordpress-the-right-way/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-switch-to-google-analytics-4-in-wordpress-the-right-way)
 - [What’s New in WordPress 6.0 &lpar;Features and Screenshots&rpar;](https://www.bwalkerwebdev.com/2022/05/24/whats-new-in-wordpress-6-0-features-and-screenshots/?utm_source=rss&utm_medium=rss&utm_campaign=whats-new-in-wordpress-6-0-features-and-screenshots)
 - [10 Terrific WordPress Plugins You Should Be Using in 2022](https://www.bwalkerwebdev.com/2022/05/24/10-terrific-wordpress-plugins-you-should-be-using-in-2022/?utm_source=rss&utm_medium=rss&utm_campaign=10-terrific-wordpress-plugins-you-should-be-using-in-2022)
-- [Paid, owned and earned media: What they are and where social fits into the mix](https://www.bwalkerwebdev.com/2022/05/24/paid-owned-and-earned-media-what-they-are-and-where-social-fits-into-the-mix/?utm_source=rss&utm_medium=rss&utm_campaign=paid-owned-and-earned-media-what-they-are-and-where-social-fits-into-the-mix)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
