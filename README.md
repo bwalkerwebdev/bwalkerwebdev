@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [4 Founder-Led Brands That Are Done Right](https://www.bwalkerwebdev.com/2022/05/26/4-founder-led-brands-that-are-done-right/?utm_source=rss&utm_medium=rss&utm_campaign=4-founder-led-brands-that-are-done-right)
 - [9 tips for designing TikTok marketing campaigns &lpar;and examples to show them in action&rpar;](https://www.bwalkerwebdev.com/2022/05/26/9-tips-for-designing-tiktok-marketing-campaigns-and-examples-to-show-them-in-action/?utm_source=rss&utm_medium=rss&utm_campaign=9-tips-for-designing-tiktok-marketing-campaigns-and-examples-to-show-them-in-action)
+- [How to Display All Your Subscriber Counts in WordPress &lpar;4 Ways&rpar;](https://www.bwalkerwebdev.com/2022/05/26/how-to-display-all-your-subscriber-counts-in-wordpress-4-ways/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-display-all-your-subscriber-counts-in-wordpress-4-ways)
 - [Mencoba Tip Video Game Sederhana Ini Untuk Menjumpai Ke Depan](https://www.bwalkerwebdev.com/2022/05/26/mencoba-tip-video-game-sederhana-ini-untuk-menjumpai-ke-depan/?utm_source=rss&utm_medium=rss&utm_campaign=mencoba-tip-video-game-sederhana-ini-untuk-menjumpai-ke-depan)
-- [How the Sprout Social Salesforce integration strengthens your team](https://www.bwalkerwebdev.com/2022/05/25/how-the-sprout-social-salesforce-integration-strengthens-your-team/?utm_source=rss&utm_medium=rss&utm_campaign=how-the-sprout-social-salesforce-integration-strengthens-your-team)
-- [How to Switch to Google Analytics 4 in WordPress &lpar;The RIGHT Way&rpar;](https://www.bwalkerwebdev.com/2022/05/25/how-to-switch-to-google-analytics-4-in-wordpress-the-right-way/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-switch-to-google-analytics-4-in-wordpress-the-right-way)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
