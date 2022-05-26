@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [9 tips for designing TikTok marketing campaigns &lpar;and examples to show them in action&rpar;](https://www.bwalkerwebdev.com/2022/05/26/9-tips-for-designing-tiktok-marketing-campaigns-and-examples-to-show-them-in-action/?utm_source=rss&utm_medium=rss&utm_campaign=9-tips-for-designing-tiktok-marketing-campaigns-and-examples-to-show-them-in-action)
 - [Mencoba Tip Video Game Sederhana Ini Untuk Menjumpai Ke Depan](https://www.bwalkerwebdev.com/2022/05/26/mencoba-tip-video-game-sederhana-ini-untuk-menjumpai-ke-depan/?utm_source=rss&utm_medium=rss&utm_campaign=mencoba-tip-video-game-sederhana-ini-untuk-menjumpai-ke-depan)
 - [How the Sprout Social Salesforce integration strengthens your team](https://www.bwalkerwebdev.com/2022/05/25/how-the-sprout-social-salesforce-integration-strengthens-your-team/?utm_source=rss&utm_medium=rss&utm_campaign=how-the-sprout-social-salesforce-integration-strengthens-your-team)
 - [How to Switch to Google Analytics 4 in WordPress &lpar;The RIGHT Way&rpar;](https://www.bwalkerwebdev.com/2022/05/25/how-to-switch-to-google-analytics-4-in-wordpress-the-right-way/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-switch-to-google-analytics-4-in-wordpress-the-right-way)
-- [What’s New in WordPress 6.0 &lpar;Features and Screenshots&rpar;](https://www.bwalkerwebdev.com/2022/05/24/whats-new-in-wordpress-6-0-features-and-screenshots/?utm_source=rss&utm_medium=rss&utm_campaign=whats-new-in-wordpress-6-0-features-and-screenshots)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
