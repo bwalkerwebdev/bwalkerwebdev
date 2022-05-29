@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Popular Design News of the Week: May 23, 2022 – May 29, 2022](https://www.bwalkerwebdev.com/2022/05/29/popular-design-news-of-the-week-may-23-2022-may-29-2022/?utm_source=rss&utm_medium=rss&utm_campaign=popular-design-news-of-the-week-may-23-2022-may-29-2022)
 - [2022’s Most Popular and Best WordPress Themes &lpar;Expert Pick&rpar;](https://www.bwalkerwebdev.com/2022/05/27/2022s-most-popular-and-best-wordpress-themes-expert-pick/?utm_source=rss&utm_medium=rss&utm_campaign=2022s-most-popular-and-best-wordpress-themes-expert-pick)
 - [Apakah Anda Tidak Tahu Tentang Sepak Bola? Baca ini](https://www.bwalkerwebdev.com/2022/05/27/apakah-anda-tidak-tahu-tentang-sepak-bola-baca-ini/?utm_source=rss&utm_medium=rss&utm_campaign=apakah-anda-tidak-tahu-tentang-sepak-bola-baca-ini)
 - [Social media messaging: how to build a winning cross-platform strategy](https://www.bwalkerwebdev.com/2022/05/26/social-media-messaging-how-to-build-a-winning-cross-platform-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=social-media-messaging-how-to-build-a-winning-cross-platform-strategy)
-- [4 Founder-Led Brands That Are Done Right](https://www.bwalkerwebdev.com/2022/05/26/4-founder-led-brands-that-are-done-right/?utm_source=rss&utm_medium=rss&utm_campaign=4-founder-led-brands-that-are-done-right)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
