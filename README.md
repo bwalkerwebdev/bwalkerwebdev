@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Social media activism: This is how you start a movement](https://www.bwalkerwebdev.com/2022/05/31/social-media-activism-this-is-how-you-start-a-movement/?utm_source=rss&utm_medium=rss&utm_campaign=social-media-activism-this-is-how-you-start-a-movement)
 - [15 Best New Fonts, June 2022](https://www.bwalkerwebdev.com/2022/05/30/15-best-new-fonts-june-2022/?utm_source=rss&utm_medium=rss&utm_campaign=15-best-new-fonts-june-2022)
 - [How to Fix Missing Appearance Menu in WordPress Admin](https://www.bwalkerwebdev.com/2022/05/30/how-to-fix-missing-appearance-menu-in-wordpress-admin/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-fix-missing-appearance-menu-in-wordpress-admin)
 - [Popular Design News of the Week: May 23, 2022 – May 29, 2022](https://www.bwalkerwebdev.com/2022/05/29/popular-design-news-of-the-week-may-23-2022-may-29-2022/?utm_source=rss&utm_medium=rss&utm_campaign=popular-design-news-of-the-week-may-23-2022-may-29-2022)
-- [2022’s Most Popular and Best WordPress Themes &lpar;Expert Pick&rpar;](https://www.bwalkerwebdev.com/2022/05/27/2022s-most-popular-and-best-wordpress-themes-expert-pick/?utm_source=rss&utm_medium=rss&utm_campaign=2022s-most-popular-and-best-wordpress-themes-expert-pick)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
