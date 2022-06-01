@@ -22,9 +22,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [How to schedule Tweets to drive more engagement](https://www.bwalkerwebdev.com/2022/06/01/how-to-schedule-tweets-to-drive-more-engagement/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-schedule-tweets-to-drive-more-engagement)
+- [A Brief History of Responsive Web Design](https://www.bwalkerwebdev.com/2022/06/01/a-brief-history-of-responsive-web-design/?utm_source=rss&utm_medium=rss&utm_campaign=a-brief-history-of-responsive-web-design)
 - [Why lifecycle marketing matters for your social team](https://www.bwalkerwebdev.com/2022/06/01/why-lifecycle-marketing-matters-for-your-social-team/?utm_source=rss&utm_medium=rss&utm_campaign=why-lifecycle-marketing-matters-for-your-social-team)
-- [How &lpar;and why&rpar; to post to Instagram from PC or Mac](https://www.bwalkerwebdev.com/2022/05/31/how-and-why-to-post-to-instagram-from-pc-or-mac/?utm_source=rss&utm_medium=rss&utm_campaign=how-and-why-to-post-to-instagram-from-pc-or-mac)
-- [Social media activism: This is how you start a movement](https://www.bwalkerwebdev.com/2022/05/31/social-media-activism-this-is-how-you-start-a-movement/?utm_source=rss&utm_medium=rss&utm_campaign=social-media-activism-this-is-how-you-start-a-movement)
+- [How to Add Text on Top of an Image in WordPress &lpar;3 Methods&rpar;](https://www.bwalkerwebdev.com/2022/06/01/how-to-add-text-on-top-of-an-image-in-wordpress-3-methods/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-add-text-on-top-of-an-image-in-wordpress-3-methods)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
