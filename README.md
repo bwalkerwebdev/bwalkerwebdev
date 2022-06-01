@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to schedule Tweets to drive more engagement](https://www.bwalkerwebdev.com/2022/06/01/how-to-schedule-tweets-to-drive-more-engagement/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-schedule-tweets-to-drive-more-engagement)
+- [Why lifecycle marketing matters for your social team](https://www.bwalkerwebdev.com/2022/06/01/why-lifecycle-marketing-matters-for-your-social-team/?utm_source=rss&utm_medium=rss&utm_campaign=why-lifecycle-marketing-matters-for-your-social-team)
+- [How &lpar;and why&rpar; to post to Instagram from PC or Mac](https://www.bwalkerwebdev.com/2022/05/31/how-and-why-to-post-to-instagram-from-pc-or-mac/?utm_source=rss&utm_medium=rss&utm_campaign=how-and-why-to-post-to-instagram-from-pc-or-mac)
 - [Social media activism: This is how you start a movement](https://www.bwalkerwebdev.com/2022/05/31/social-media-activism-this-is-how-you-start-a-movement/?utm_source=rss&utm_medium=rss&utm_campaign=social-media-activism-this-is-how-you-start-a-movement)
-- [How to Limit the Number of WordPress Form Entries](https://www.bwalkerwebdev.com/2022/05/31/how-to-limit-the-number-of-wordpress-form-entries/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-limit-the-number-of-wordpress-form-entries)
-- [15 Best New Fonts, June 2022](https://www.bwalkerwebdev.com/2022/05/30/15-best-new-fonts-june-2022/?utm_source=rss&utm_medium=rss&utm_campaign=15-best-new-fonts-june-2022)
-- [How to Fix Missing Appearance Menu in WordPress Admin](https://www.bwalkerwebdev.com/2022/05/30/how-to-fix-missing-appearance-menu-in-wordpress-admin/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-fix-missing-appearance-menu-in-wordpress-admin)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
