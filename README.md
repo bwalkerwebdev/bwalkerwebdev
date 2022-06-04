@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Display Any RSS Feed on Your WordPress Blog](https://www.bwalkerwebdev.com/2022/06/04/how-to-display-any-rss-feed-on-your-wordpress-blog/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-display-any-rss-feed-on-your-wordpress-blog)
 - [WordPress 6.0 Lives Up To The Hype](https://www.bwalkerwebdev.com/2022/06/03/wordpress-6-0-lives-up-to-the-hype/?utm_source=rss&utm_medium=rss&utm_campaign=wordpress-6-0-lives-up-to-the-hype)
 - [14 Best WordPress SEO Plugins and Tools That You Should Use](https://www.bwalkerwebdev.com/2022/06/03/14-best-wordpress-seo-plugins-and-tools-that-you-should-use/?utm_source=rss&utm_medium=rss&utm_campaign=14-best-wordpress-seo-plugins-and-tools-that-you-should-use)
 - [How to edit TikTok videos: 20 tips for success](https://www.bwalkerwebdev.com/2022/06/02/how-to-edit-tiktok-videos-20-tips-for-success/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-edit-tiktok-videos-20-tips-for-success)
-- [Финансовый Контроль И Его Значение](https://www.bwalkerwebdev.com/2022/06/02/%d1%84%d0%b8%d0%bd%d0%b0%d0%bd%d1%81%d0%be%d0%b2%d1%8b%d0%b9-%d0%ba%d0%be%d0%bd%d1%82%d1%80%d0%be%d0%bb%d1%8c-%d0%b8-%d0%b5%d0%b3%d0%be-%d0%b7%d0%bd%d0%b0%d1%87%d0%b5%d0%bd%d0%b8%d0%b5/?utm_source=rss&utm_medium=rss&utm_campaign=%25d1%2584%25d0%25b8%25d0%25bd%25d0%25b0%25d0%25bd%25d1%2581%25d0%25be%25d0%25b2%25d1%258b%25d0%25b9-%25d0%25ba%25d0%25be%25d0%25bd%25d1%2582%25d1%2580%25d0%25be%25d0%25bb%25d1%258c-%25d0%25b8-%25d0%25b5%25d0%25b3%25d0%25be-%25d0%25b7%25d0%25bd%25d0%25b0%25d1%2587%25d0%25b5%25d0%25bd%25d0%25b8%25d0%25b5)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
