@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Popular Design News of the Week: May 30, 2022 – June 5, 2022](https://www.bwalkerwebdev.com/2022/06/05/popular-design-news-of-the-week-may-30-2022-june-5-2022/?utm_source=rss&utm_medium=rss&utm_campaign=popular-design-news-of-the-week-may-30-2022-june-5-2022)
+- [Popular Design News of the Week: May 30, 2022 – June 5, 2022](https://www.bwalkerwebdev.com/2022/06/05/popular-design-news-of-the-week-may-30-2022-june-5-2022-2/?utm_source=rss&utm_medium=rss&utm_campaign=popular-design-news-of-the-week-may-30-2022-june-5-2022-2)
 - [How to Display Any RSS Feed on Your WordPress Blog](https://www.bwalkerwebdev.com/2022/06/04/how-to-display-any-rss-feed-on-your-wordpress-blog/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-display-any-rss-feed-on-your-wordpress-blog)
 - [WordPress 6.0 Lives Up To The Hype](https://www.bwalkerwebdev.com/2022/06/03/wordpress-6-0-lives-up-to-the-hype/?utm_source=rss&utm_medium=rss&utm_campaign=wordpress-6-0-lives-up-to-the-hype)
-- [14 Best WordPress SEO Plugins and Tools That You Should Use](https://www.bwalkerwebdev.com/2022/06/03/14-best-wordpress-seo-plugins-and-tools-that-you-should-use/?utm_source=rss&utm_medium=rss&utm_campaign=14-best-wordpress-seo-plugins-and-tools-that-you-should-use)
-- [How to edit TikTok videos: 20 tips for success](https://www.bwalkerwebdev.com/2022/06/02/how-to-edit-tiktok-videos-20-tips-for-success/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-edit-tiktok-videos-20-tips-for-success)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
