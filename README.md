@@ -22,9 +22,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Brand storytelling: How to tell the story your customers want to hear](https://www.bwalkerwebdev.com/2022/06/06/brand-storytelling-how-to-tell-the-story-your-customers-want-to-hear/?utm_source=rss&utm_medium=rss&utm_campaign=brand-storytelling-how-to-tell-the-story-your-customers-want-to-hear)
+- [3 Essential Design Trends, June 2022](https://www.bwalkerwebdev.com/2022/06/06/3-essential-design-trends-june-2022/?utm_source=rss&utm_medium=rss&utm_campaign=3-essential-design-trends-june-2022)
 - [TikTok comments: Everything you need to know to drive engagement](https://www.bwalkerwebdev.com/2022/06/06/tiktok-comments-everything-you-need-to-know-to-drive-engagement/?utm_source=rss&utm_medium=rss&utm_campaign=tiktok-comments-everything-you-need-to-know-to-drive-engagement)
-- [Popular Design News of the Week: May 30, 2022 – June 5, 2022](https://www.bwalkerwebdev.com/2022/06/05/popular-design-news-of-the-week-may-30-2022-june-5-2022/?utm_source=rss&utm_medium=rss&utm_campaign=popular-design-news-of-the-week-may-30-2022-june-5-2022)
-- [Popular Design News of the Week: May 30, 2022 – June 5, 2022](https://www.bwalkerwebdev.com/2022/06/05/popular-design-news-of-the-week-may-30-2022-june-5-2022-2/?utm_source=rss&utm_medium=rss&utm_campaign=popular-design-news-of-the-week-may-30-2022-june-5-2022-2)
+- [How to Customize Your WordPress Header &lpar;Beginner’s Guide&rpar;](https://www.bwalkerwebdev.com/2022/06/06/how-to-customize-your-wordpress-header-beginners-guide/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-customize-your-wordpress-header-beginners-guide)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
