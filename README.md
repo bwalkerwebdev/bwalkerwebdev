@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Brand storytelling: How to tell the story your customers want to hear](https://www.bwalkerwebdev.com/2022/06/06/brand-storytelling-how-to-tell-the-story-your-customers-want-to-hear/?utm_source=rss&utm_medium=rss&utm_campaign=brand-storytelling-how-to-tell-the-story-your-customers-want-to-hear)
+- [TikTok comments: Everything you need to know to drive engagement](https://www.bwalkerwebdev.com/2022/06/06/tiktok-comments-everything-you-need-to-know-to-drive-engagement/?utm_source=rss&utm_medium=rss&utm_campaign=tiktok-comments-everything-you-need-to-know-to-drive-engagement)
 - [Popular Design News of the Week: May 30, 2022 – June 5, 2022](https://www.bwalkerwebdev.com/2022/06/05/popular-design-news-of-the-week-may-30-2022-june-5-2022/?utm_source=rss&utm_medium=rss&utm_campaign=popular-design-news-of-the-week-may-30-2022-june-5-2022)
 - [Popular Design News of the Week: May 30, 2022 – June 5, 2022](https://www.bwalkerwebdev.com/2022/06/05/popular-design-news-of-the-week-may-30-2022-june-5-2022-2/?utm_source=rss&utm_medium=rss&utm_campaign=popular-design-news-of-the-week-may-30-2022-june-5-2022-2)
-- [How to Display Any RSS Feed on Your WordPress Blog](https://www.bwalkerwebdev.com/2022/06/04/how-to-display-any-rss-feed-on-your-wordpress-blog/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-display-any-rss-feed-on-your-wordpress-blog)
-- [WordPress 6.0 Lives Up To The Hype](https://www.bwalkerwebdev.com/2022/06/03/wordpress-6-0-lives-up-to-the-hype/?utm_source=rss&utm_medium=rss&utm_campaign=wordpress-6-0-lives-up-to-the-hype)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
