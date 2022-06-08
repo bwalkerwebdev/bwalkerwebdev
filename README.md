@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Casino Game Tutorials](https://www.bwalkerwebdev.com/2022/06/08/casino-game-tutorials/?utm_source=rss&utm_medium=rss&utm_campaign=casino-game-tutorials)
 - [How to create an IPO communications strategy for social](https://www.bwalkerwebdev.com/2022/06/07/how-to-create-an-ipo-communications-strategy-for-social/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-create-an-ipo-communications-strategy-for-social)
 - [How to Make a Gym Website in WordPress &lpar;Step by Step&rpar;](https://www.bwalkerwebdev.com/2022/06/07/how-to-make-a-gym-website-in-wordpress-step-by-step/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-make-a-gym-website-in-wordpress-step-by-step)
 - [Brand storytelling: How to tell the story your customers want to hear](https://www.bwalkerwebdev.com/2022/06/06/brand-storytelling-how-to-tell-the-story-your-customers-want-to-hear/?utm_source=rss&utm_medium=rss&utm_campaign=brand-storytelling-how-to-tell-the-story-your-customers-want-to-hear)
-- [3 Essential Design Trends, June 2022](https://www.bwalkerwebdev.com/2022/06/06/3-essential-design-trends-june-2022/?utm_source=rss&utm_medium=rss&utm_campaign=3-essential-design-trends-june-2022)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
