@@ -23,8 +23,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [How to make a TikTok: The beginner’s guide](https://www.bwalkerwebdev.com/2022/06/09/how-to-make-a-tiktok-the-beginners-guide/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-make-a-tiktok-the-beginners-guide)
 - [Casino Game Tutorials](https://www.bwalkerwebdev.com/2022/06/08/casino-game-tutorials/?utm_source=rss&utm_medium=rss&utm_campaign=casino-game-tutorials)
+- [How to Preview Your WordPress Website Before Going Live](https://www.bwalkerwebdev.com/2022/06/08/how-to-preview-your-wordpress-website-before-going-live/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-preview-your-wordpress-website-before-going-live)
 - [How to create an IPO communications strategy for social](https://www.bwalkerwebdev.com/2022/06/07/how-to-create-an-ipo-communications-strategy-for-social/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-create-an-ipo-communications-strategy-for-social)
-- [How to Make a Gym Website in WordPress &lpar;Step by Step&rpar;](https://www.bwalkerwebdev.com/2022/06/07/how-to-make-a-gym-website-in-wordpress-step-by-step/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-make-a-gym-website-in-wordpress-step-by-step)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
