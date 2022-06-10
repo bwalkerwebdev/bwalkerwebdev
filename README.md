@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [6 Best WordPress Banner Plugins in 2022 &lpar;Compared&rpar;](https://www.bwalkerwebdev.com/2022/06/10/6-best-wordpress-banner-plugins-in-2022-compared/?utm_source=rss&utm_medium=rss&utm_campaign=6-best-wordpress-banner-plugins-in-2022-compared)
 - [How to make a TikTok: The beginner’s guide](https://www.bwalkerwebdev.com/2022/06/09/how-to-make-a-tiktok-the-beginners-guide/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-make-a-tiktok-the-beginners-guide)
+- [How to Create a Vertical Navigation Menu in WordPress](https://www.bwalkerwebdev.com/2022/06/09/how-to-create-a-vertical-navigation-menu-in-wordpress/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-create-a-vertical-navigation-menu-in-wordpress)
 - [Casino Game Tutorials](https://www.bwalkerwebdev.com/2022/06/08/casino-game-tutorials/?utm_source=rss&utm_medium=rss&utm_campaign=casino-game-tutorials)
-- [How to Preview Your WordPress Website Before Going Live](https://www.bwalkerwebdev.com/2022/06/08/how-to-preview-your-wordpress-website-before-going-live/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-preview-your-wordpress-website-before-going-live)
-- [How to create an IPO communications strategy for social](https://www.bwalkerwebdev.com/2022/06/07/how-to-create-an-ipo-communications-strategy-for-social/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-create-an-ipo-communications-strategy-for-social)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
