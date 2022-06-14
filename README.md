@@ -22,9 +22,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [How to schedule TikTok posts and 4 tips for success](https://www.bwalkerwebdev.com/2022/06/13/how-to-schedule-tiktok-posts-and-4-tips-for-success/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-schedule-tiktok-posts-and-4-tips-for-success)
+- [How to Fix Missing Theme Customizer in WordPress Admin](https://www.bwalkerwebdev.com/2022/06/13/how-to-fix-missing-theme-customizer-in-wordpress-admin/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-fix-missing-theme-customizer-in-wordpress-admin)
 - [6 Best WordPress Banner Plugins in 2022 &lpar;Compared&rpar;](https://www.bwalkerwebdev.com/2022/06/10/6-best-wordpress-banner-plugins-in-2022-compared/?utm_source=rss&utm_medium=rss&utm_campaign=6-best-wordpress-banner-plugins-in-2022-compared)
 - [How to make a TikTok: The beginner’s guide](https://www.bwalkerwebdev.com/2022/06/09/how-to-make-a-tiktok-the-beginners-guide/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-make-a-tiktok-the-beginners-guide)
-- [How to Create a Vertical Navigation Menu in WordPress](https://www.bwalkerwebdev.com/2022/06/09/how-to-create-a-vertical-navigation-menu-in-wordpress/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-create-a-vertical-navigation-menu-in-wordpress)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
