@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SMS marketing 101: How to use text messaging in your marketing strategy](https://www.bwalkerwebdev.com/2022/06/14/sms-marketing-101-how-to-use-text-messaging-in-your-marketing-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=sms-marketing-101-how-to-use-text-messaging-in-your-marketing-strategy)
+- [The rise of senior influencers: Age is just a number but follower count isn’t](https://www.bwalkerwebdev.com/2022/06/14/the-rise-of-senior-influencers-age-is-just-a-number-but-follower-count-isnt/?utm_source=rss&utm_medium=rss&utm_campaign=the-rise-of-senior-influencers-age-is-just-a-number-but-follower-count-isnt)
 - [How to schedule TikTok posts and 4 tips for success](https://www.bwalkerwebdev.com/2022/06/13/how-to-schedule-tiktok-posts-and-4-tips-for-success/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-schedule-tiktok-posts-and-4-tips-for-success)
 - [How to Fix Missing Theme Customizer in WordPress Admin](https://www.bwalkerwebdev.com/2022/06/13/how-to-fix-missing-theme-customizer-in-wordpress-admin/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-fix-missing-theme-customizer-in-wordpress-admin)
-- [6 Best WordPress Banner Plugins in 2022 &lpar;Compared&rpar;](https://www.bwalkerwebdev.com/2022/06/10/6-best-wordpress-banner-plugins-in-2022-compared/?utm_source=rss&utm_medium=rss&utm_campaign=6-best-wordpress-banner-plugins-in-2022-compared)
-- [How to make a TikTok: The beginner’s guide](https://www.bwalkerwebdev.com/2022/06/09/how-to-make-a-tiktok-the-beginners-guide/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-make-a-tiktok-the-beginners-guide)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
