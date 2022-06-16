@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The complete guide to Instagram listening](https://www.bwalkerwebdev.com/2022/06/16/the-complete-guide-to-instagram-listening/?utm_source=rss&utm_medium=rss&utm_campaign=the-complete-guide-to-instagram-listening)
+- [The importance of social media sentiment analysis &lpar;and how to conduct it&rpar;](https://www.bwalkerwebdev.com/2022/06/15/the-importance-of-social-media-sentiment-analysis-and-how-to-conduct-it/?utm_source=rss&utm_medium=rss&utm_campaign=the-importance-of-social-media-sentiment-analysis-and-how-to-conduct-it)
 - [How to Fix a Slow Loading WordPress Dashboard &lpar;Step by Step&rpar;](https://www.bwalkerwebdev.com/2022/06/15/how-to-fix-a-slow-loading-wordpress-dashboard-step-by-step/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-fix-a-slow-loading-wordpress-dashboard-step-by-step)
 - [SMS marketing 101: How to use text messaging in your marketing strategy](https://www.bwalkerwebdev.com/2022/06/14/sms-marketing-101-how-to-use-text-messaging-in-your-marketing-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=sms-marketing-101-how-to-use-text-messaging-in-your-marketing-strategy)
-- [The rise of senior influencers: Age is just a number but follower count isn’t](https://www.bwalkerwebdev.com/2022/06/14/the-rise-of-senior-influencers-age-is-just-a-number-but-follower-count-isnt/?utm_source=rss&utm_medium=rss&utm_campaign=the-rise-of-senior-influencers-age-is-just-a-number-but-follower-count-isnt)
-- [How to Display WordPress Form Entries on Your Site](https://www.bwalkerwebdev.com/2022/06/14/how-to-display-wordpress-form-entries-on-your-site/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-display-wordpress-form-entries-on-your-site)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
