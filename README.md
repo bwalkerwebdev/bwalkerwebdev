@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Quiz: The Infuriating IE Quiz](https://www.bwalkerwebdev.com/2022/06/17/quiz-the-infuriating-ie-quiz/?utm_source=rss&utm_medium=rss&utm_campaign=quiz-the-infuriating-ie-quiz)
+- [7 Best Call Center Software For 2022 &lpar;Expert Pick&rpar;](https://www.bwalkerwebdev.com/2022/06/17/7-best-call-center-software-for-2022-expert-pick/?utm_source=rss&utm_medium=rss&utm_campaign=7-best-call-center-software-for-2022-expert-pick)
 - [The complete guide to Instagram listening](https://www.bwalkerwebdev.com/2022/06/16/the-complete-guide-to-instagram-listening/?utm_source=rss&utm_medium=rss&utm_campaign=the-complete-guide-to-instagram-listening)
 - [How to Embed Medium Blog Posts in WordPress](https://www.bwalkerwebdev.com/2022/06/16/how-to-embed-medium-blog-posts-in-wordpress/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-embed-medium-blog-posts-in-wordpress)
-- [The importance of social media sentiment analysis &lpar;and how to conduct it&rpar;](https://www.bwalkerwebdev.com/2022/06/15/the-importance-of-social-media-sentiment-analysis-and-how-to-conduct-it/?utm_source=rss&utm_medium=rss&utm_campaign=the-importance-of-social-media-sentiment-analysis-and-how-to-conduct-it)
-- [How to Fix a Slow Loading WordPress Dashboard &lpar;Step by Step&rpar;](https://www.bwalkerwebdev.com/2022/06/15/how-to-fix-a-slow-loading-wordpress-dashboard-step-by-step/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-fix-a-slow-loading-wordpress-dashboard-step-by-step)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
