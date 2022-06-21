@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to go viral on TikTok: 7 tips from brands that did it](https://www.bwalkerwebdev.com/2022/06/21/how-to-go-viral-on-tiktok-7-tips-from-brands-that-did-it/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-go-viral-on-tiktok-7-tips-from-brands-that-did-it)
+- [Direct Marketing: What it is and 5 direct message marketing examples](https://www.bwalkerwebdev.com/2022/06/21/direct-marketing-what-it-is-and-5-direct-message-marketing-examples/?utm_source=rss&utm_medium=rss&utm_campaign=direct-marketing-what-it-is-and-5-direct-message-marketing-examples)
 - [7 UX Laws You’Re Probably Getting Wrong](https://www.bwalkerwebdev.com/2022/06/20/7-ux-laws-youre-probably-getting-wrong/?utm_source=rss&utm_medium=rss&utm_campaign=7-ux-laws-youre-probably-getting-wrong)
 - [How to Fix Post-Processing of Image Failed Error in WordPress](https://www.bwalkerwebdev.com/2022/06/20/how-to-fix-post-processing-of-image-failed-error-in-wordpress/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-fix-post-processing-of-image-failed-error-in-wordpress)
-- [Popular Design News of the Week: June 13, 2022 – June 19, 2022](https://www.bwalkerwebdev.com/2022/06/19/popular-design-news-of-the-week-june-13-2022-june-19-2022/?utm_source=rss&utm_medium=rss&utm_campaign=popular-design-news-of-the-week-june-13-2022-june-19-2022)
-- [Quiz: The Infuriating IE Quiz](https://www.bwalkerwebdev.com/2022/06/17/quiz-the-infuriating-ie-quiz/?utm_source=rss&utm_medium=rss&utm_campaign=quiz-the-infuriating-ie-quiz)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
