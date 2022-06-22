@@ -23,8 +23,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [How to go viral on TikTok: 7 tips from brands that did it](https://www.bwalkerwebdev.com/2022/06/21/how-to-go-viral-on-tiktok-7-tips-from-brands-that-did-it/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-go-viral-on-tiktok-7-tips-from-brands-that-did-it)
 - [Direct Marketing: What it is and 5 direct message marketing examples](https://www.bwalkerwebdev.com/2022/06/21/direct-marketing-what-it-is-and-5-direct-message-marketing-examples/?utm_source=rss&utm_medium=rss&utm_campaign=direct-marketing-what-it-is-and-5-direct-message-marketing-examples)
+- [How to Create a Reddit-Like Website with WordPress](https://www.bwalkerwebdev.com/2022/06/21/how-to-create-a-reddit-like-website-with-wordpress/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-create-a-reddit-like-website-with-wordpress)
 - [7 UX Laws You’Re Probably Getting Wrong](https://www.bwalkerwebdev.com/2022/06/20/7-ux-laws-youre-probably-getting-wrong/?utm_source=rss&utm_medium=rss&utm_campaign=7-ux-laws-youre-probably-getting-wrong)
-- [How to Fix Post-Processing of Image Failed Error in WordPress](https://www.bwalkerwebdev.com/2022/06/20/how-to-fix-post-processing-of-image-failed-error-in-wordpress/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-fix-post-processing-of-image-failed-error-in-wordpress)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
