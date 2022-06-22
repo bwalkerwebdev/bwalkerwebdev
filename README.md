@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TikTok ads 101: How to get started with TikTok advertising](https://www.bwalkerwebdev.com/2022/06/22/tiktok-ads-101-how-to-get-started-with-tiktok-advertising/?utm_source=rss&utm_medium=rss&utm_campaign=tiktok-ads-101-how-to-get-started-with-tiktok-advertising)
+- [10 chatbot marketing examples to boost your bot strategy](https://www.bwalkerwebdev.com/2022/06/22/10-chatbot-marketing-examples-to-boost-your-bot-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=10-chatbot-marketing-examples-to-boost-your-bot-strategy)
 - [How to go viral on TikTok: 7 tips from brands that did it](https://www.bwalkerwebdev.com/2022/06/21/how-to-go-viral-on-tiktok-7-tips-from-brands-that-did-it/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-go-viral-on-tiktok-7-tips-from-brands-that-did-it)
 - [Direct Marketing: What it is and 5 direct message marketing examples](https://www.bwalkerwebdev.com/2022/06/21/direct-marketing-what-it-is-and-5-direct-message-marketing-examples/?utm_source=rss&utm_medium=rss&utm_campaign=direct-marketing-what-it-is-and-5-direct-message-marketing-examples)
-- [How to Create a Reddit-Like Website with WordPress](https://www.bwalkerwebdev.com/2022/06/21/how-to-create-a-reddit-like-website-with-wordpress/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-create-a-reddit-like-website-with-wordpress)
-- [7 UX Laws You’Re Probably Getting Wrong](https://www.bwalkerwebdev.com/2022/06/20/7-ux-laws-youre-probably-getting-wrong/?utm_source=rss&utm_medium=rss&utm_campaign=7-ux-laws-youre-probably-getting-wrong)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
