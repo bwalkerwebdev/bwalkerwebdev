@@ -23,8 +23,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [TikTok ads 101: How to get started with TikTok advertising](https://www.bwalkerwebdev.com/2022/06/22/tiktok-ads-101-how-to-get-started-with-tiktok-advertising/?utm_source=rss&utm_medium=rss&utm_campaign=tiktok-ads-101-how-to-get-started-with-tiktok-advertising)
 - [10 chatbot marketing examples to boost your bot strategy](https://www.bwalkerwebdev.com/2022/06/22/10-chatbot-marketing-examples-to-boost-your-bot-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=10-chatbot-marketing-examples-to-boost-your-bot-strategy)
-- [How to go viral on TikTok: 7 tips from brands that did it](https://www.bwalkerwebdev.com/2022/06/21/how-to-go-viral-on-tiktok-7-tips-from-brands-that-did-it/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-go-viral-on-tiktok-7-tips-from-brands-that-did-it)
-- [Direct Marketing: What it is and 5 direct message marketing examples](https://www.bwalkerwebdev.com/2022/06/21/direct-marketing-what-it-is-and-5-direct-message-marketing-examples/?utm_source=rss&utm_medium=rss&utm_campaign=direct-marketing-what-it-is-and-5-direct-message-marketing-examples)
+- [How to Bootstrap a Web Design Business](https://www.bwalkerwebdev.com/2022/06/22/how-to-bootstrap-a-web-design-business/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-bootstrap-a-web-design-business)
+- [Welcome WP Charitable to the WPBeginner Family of Products](https://www.bwalkerwebdev.com/2022/06/22/welcome-wp-charitable-to-the-wpbeginner-family-of-products/?utm_source=rss&utm_medium=rss&utm_campaign=welcome-wp-charitable-to-the-wpbeginner-family-of-products)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
