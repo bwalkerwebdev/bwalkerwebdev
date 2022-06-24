@@ -22,9 +22,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [How to conduct a Facebook competitor analysis report](https://www.bwalkerwebdev.com/2022/06/23/how-to-conduct-a-facebook-competitor-analysis-report/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-conduct-a-facebook-competitor-analysis-report)
+- [How to Add Multiple Locations Schema for Local Business in WordPress](https://www.bwalkerwebdev.com/2022/06/23/how-to-add-multiple-locations-schema-for-local-business-in-wordpress/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-add-multiple-locations-schema-for-local-business-in-wordpress)
+- [UX vs. UI: Guide to Distinguishing User Experience and User Interface Design](https://www.bwalkerwebdev.com/2022/06/23/ux-vs-ui-guide-to-distinguishing-user-experience-and-user-interface-design/?utm_source=rss&utm_medium=rss&utm_campaign=ux-vs-ui-guide-to-distinguishing-user-experience-and-user-interface-design)
 - [TikTok ads 101: How to get started with TikTok advertising](https://www.bwalkerwebdev.com/2022/06/22/tiktok-ads-101-how-to-get-started-with-tiktok-advertising/?utm_source=rss&utm_medium=rss&utm_campaign=tiktok-ads-101-how-to-get-started-with-tiktok-advertising)
-- [10 chatbot marketing examples to boost your bot strategy](https://www.bwalkerwebdev.com/2022/06/22/10-chatbot-marketing-examples-to-boost-your-bot-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=10-chatbot-marketing-examples-to-boost-your-bot-strategy)
-- [How to Bootstrap a Web Design Business](https://www.bwalkerwebdev.com/2022/06/22/how-to-bootstrap-a-web-design-business/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-bootstrap-a-web-design-business)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
