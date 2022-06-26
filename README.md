@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Where Does WordPress Store Images on Your Site?](https://www.bwalkerwebdev.com/2022/06/25/where-does-wordpress-store-images-on-your-site/?utm_source=rss&utm_medium=rss&utm_campaign=where-does-wordpress-store-images-on-your-site)
 - [Are You Undercharging for Web Design Services?](https://www.bwalkerwebdev.com/2022/06/24/are-you-undercharging-for-web-design-services/?utm_source=rss&utm_medium=rss&utm_campaign=are-you-undercharging-for-web-design-services)
 - [7 Best Backlink Checker Tools – Free &amp; Paid Options &lpar;Compared&rpar;](https://www.bwalkerwebdev.com/2022/06/24/7-best-backlink-checker-tools-free-paid-options-compared/?utm_source=rss&utm_medium=rss&utm_campaign=7-best-backlink-checker-tools-free-paid-options-compared)
 - [How to conduct a Facebook competitor analysis report](https://www.bwalkerwebdev.com/2022/06/23/how-to-conduct-a-facebook-competitor-analysis-report/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-conduct-a-facebook-competitor-analysis-report)
-- [How to Add Multiple Locations Schema for Local Business in WordPress](https://www.bwalkerwebdev.com/2022/06/23/how-to-add-multiple-locations-schema-for-local-business-in-wordpress/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-add-multiple-locations-schema-for-local-business-in-wordpress)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
