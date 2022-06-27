@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pinterest analytics: a guide for marketers](https://www.bwalkerwebdev.com/2022/06/27/pinterest-analytics-a-guide-for-marketers/?utm_source=rss&utm_medium=rss&utm_campaign=pinterest-analytics-a-guide-for-marketers)
+- [How to use TikTok for B2B marketing &lpar;and 3 brands doing it right&rpar;](https://www.bwalkerwebdev.com/2022/06/27/how-to-use-tiktok-for-b2b-marketing-and-3-brands-doing-it-right/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-use-tiktok-for-b2b-marketing-and-3-brands-doing-it-right)
 - [How to Disable Gravatars in WordPress](https://www.bwalkerwebdev.com/2022/06/26/how-to-disable-gravatars-in-wordpress/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-disable-gravatars-in-wordpress)
 - [Where Does WordPress Store Images on Your Site?](https://www.bwalkerwebdev.com/2022/06/25/where-does-wordpress-store-images-on-your-site/?utm_source=rss&utm_medium=rss&utm_campaign=where-does-wordpress-store-images-on-your-site)
-- [Are You Undercharging for Web Design Services?](https://www.bwalkerwebdev.com/2022/06/24/are-you-undercharging-for-web-design-services/?utm_source=rss&utm_medium=rss&utm_campaign=are-you-undercharging-for-web-design-services)
-- [7 Best Backlink Checker Tools – Free &amp; Paid Options &lpar;Compared&rpar;](https://www.bwalkerwebdev.com/2022/06/24/7-best-backlink-checker-tools-free-paid-options-compared/?utm_source=rss&utm_medium=rss&utm_campaign=7-best-backlink-checker-tools-free-paid-options-compared)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
