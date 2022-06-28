@@ -22,9 +22,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Pinterest analytics: a guide for marketers](https://www.bwalkerwebdev.com/2022/06/27/pinterest-analytics-a-guide-for-marketers/?utm_source=rss&utm_medium=rss&utm_campaign=pinterest-analytics-a-guide-for-marketers)
+- [3 Essential Design Trends, July 2022](https://www.bwalkerwebdev.com/2022/06/27/3-essential-design-trends-july-2022/?utm_source=rss&utm_medium=rss&utm_campaign=3-essential-design-trends-july-2022)
 - [How to use TikTok for B2B marketing &lpar;and 3 brands doing it right&rpar;](https://www.bwalkerwebdev.com/2022/06/27/how-to-use-tiktok-for-b2b-marketing-and-3-brands-doing-it-right/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-use-tiktok-for-b2b-marketing-and-3-brands-doing-it-right)
-- [How to Disable Gravatars in WordPress](https://www.bwalkerwebdev.com/2022/06/26/how-to-disable-gravatars-in-wordpress/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-disable-gravatars-in-wordpress)
-- [Where Does WordPress Store Images on Your Site?](https://www.bwalkerwebdev.com/2022/06/25/where-does-wordpress-store-images-on-your-site/?utm_source=rss&utm_medium=rss&utm_campaign=where-does-wordpress-store-images-on-your-site)
+- [How to Automatically Publish from WordPress to Instagram](https://www.bwalkerwebdev.com/2022/06/27/how-to-automatically-publish-from-wordpress-to-instagram/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-automatically-publish-from-wordpress-to-instagram)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
