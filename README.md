@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Analyze Competitors on Instagram to Reach Your Goals](https://www.bwalkerwebdev.com/2022/06/29/how-to-analyze-competitors-on-instagram-to-reach-your-goals/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-analyze-competitors-on-instagram-to-reach-your-goals)
+- [How to go live on TikTok and engage your followers](https://www.bwalkerwebdev.com/2022/06/29/how-to-go-live-on-tiktok-and-engage-your-followers/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-go-live-on-tiktok-and-engage-your-followers)
 - [How to Easily Accept Credit Card Payments on Your WordPress Site](https://www.bwalkerwebdev.com/2022/06/28/how-to-easily-accept-credit-card-payments-on-your-wordpress-site/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-easily-accept-credit-card-payments-on-your-wordpress-site)
 - [TikTok Creator Fund: How it works and what to expect](https://www.bwalkerwebdev.com/2022/06/28/tiktok-creator-fund-how-it-works-and-what-to-expect/?utm_source=rss&utm_medium=rss&utm_campaign=tiktok-creator-fund-how-it-works-and-what-to-expect)
-- [How to Disable wp-cron in WordPress and Set Up Proper Cron Jobs](https://www.bwalkerwebdev.com/2022/06/28/how-to-disable-wp-cron-in-wordpress-and-set-up-proper-cron-jobs/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-disable-wp-cron-in-wordpress-and-set-up-proper-cron-jobs)
-- [Pinterest analytics: a guide for marketers](https://www.bwalkerwebdev.com/2022/06/27/pinterest-analytics-a-guide-for-marketers/?utm_source=rss&utm_medium=rss&utm_campaign=pinterest-analytics-a-guide-for-marketers)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
