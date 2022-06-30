@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sprout on Sprout: How to communicate social media marketing priorities to outside stakeholders](https://www.bwalkerwebdev.com/2022/06/30/sprout-on-sprout-how-to-communicate-social-media-marketing-priorities-to-outside-stakeholders/?utm_source=rss&utm_medium=rss&utm_campaign=sprout-on-sprout-how-to-communicate-social-media-marketing-priorities-to-outside-stakeholders)
 - [How to Import External Images in WordPress](https://www.bwalkerwebdev.com/2022/06/29/how-to-import-external-images-in-wordpress/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-import-external-images-in-wordpress)
 - [How to Analyze Competitors on Instagram to Reach Your Goals](https://www.bwalkerwebdev.com/2022/06/29/how-to-analyze-competitors-on-instagram-to-reach-your-goals/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-analyze-competitors-on-instagram-to-reach-your-goals)
 - [How to go live on TikTok and engage your followers](https://www.bwalkerwebdev.com/2022/06/29/how-to-go-live-on-tiktok-and-engage-your-followers/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-go-live-on-tiktok-and-engage-your-followers)
-- [How to Make a Google Ad Landing Page in WordPress &lpar;The Easy Way&rpar;](https://www.bwalkerwebdev.com/2022/06/29/how-to-make-a-google-ad-landing-page-in-wordpress-the-easy-way/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-make-a-google-ad-landing-page-in-wordpress-the-easy-way)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
