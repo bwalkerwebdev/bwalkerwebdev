@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Import External Images in WordPress](https://www.bwalkerwebdev.com/2022/06/29/how-to-import-external-images-in-wordpress/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-import-external-images-in-wordpress)
 - [How to Analyze Competitors on Instagram to Reach Your Goals](https://www.bwalkerwebdev.com/2022/06/29/how-to-analyze-competitors-on-instagram-to-reach-your-goals/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-analyze-competitors-on-instagram-to-reach-your-goals)
 - [How to go live on TikTok and engage your followers](https://www.bwalkerwebdev.com/2022/06/29/how-to-go-live-on-tiktok-and-engage-your-followers/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-go-live-on-tiktok-and-engage-your-followers)
-- [How to Easily Accept Credit Card Payments on Your WordPress Site](https://www.bwalkerwebdev.com/2022/06/28/how-to-easily-accept-credit-card-payments-on-your-wordpress-site/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-easily-accept-credit-card-payments-on-your-wordpress-site)
-- [TikTok Creator Fund: How it works and what to expect](https://www.bwalkerwebdev.com/2022/06/28/tiktok-creator-fund-how-it-works-and-what-to-expect/?utm_source=rss&utm_medium=rss&utm_campaign=tiktok-creator-fund-how-it-works-and-what-to-expect)
+- [How to Make a Google Ad Landing Page in WordPress &lpar;The Easy Way&rpar;](https://www.bwalkerwebdev.com/2022/06/29/how-to-make-a-google-ad-landing-page-in-wordpress-the-easy-way/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-make-a-google-ad-landing-page-in-wordpress-the-easy-way)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
