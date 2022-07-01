@@ -22,9 +22,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Sprout on Sprout: How to communicate social media marketing priorities to outside stakeholders](https://www.bwalkerwebdev.com/2022/06/30/sprout-on-sprout-how-to-communicate-social-media-marketing-priorities-to-outside-stakeholders/?utm_source=rss&utm_medium=rss&utm_campaign=sprout-on-sprout-how-to-communicate-social-media-marketing-priorities-to-outside-stakeholders)
+- [How to Add an Author’s Photo in WordPress](https://www.bwalkerwebdev.com/2022/06/30/how-to-add-an-authors-photo-in-wordpress/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-add-an-authors-photo-in-wordpress)
+- [How to Add a Wishlist to Your WooCommerce Store](https://www.bwalkerwebdev.com/2022/06/30/how-to-add-a-wishlist-to-your-woocommerce-store/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-add-a-wishlist-to-your-woocommerce-store)
 - [How to Import External Images in WordPress](https://www.bwalkerwebdev.com/2022/06/29/how-to-import-external-images-in-wordpress/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-import-external-images-in-wordpress)
-- [How to Analyze Competitors on Instagram to Reach Your Goals](https://www.bwalkerwebdev.com/2022/06/29/how-to-analyze-competitors-on-instagram-to-reach-your-goals/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-analyze-competitors-on-instagram-to-reach-your-goals)
-- [How to go live on TikTok and engage your followers](https://www.bwalkerwebdev.com/2022/06/29/how-to-go-live-on-tiktok-and-engage-your-followers/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-go-live-on-tiktok-and-engage-your-followers)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
