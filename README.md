@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [3 Best Website Uptime Monitoring Tools](https://www.bwalkerwebdev.com/2022/07/01/3-best-website-uptime-monitoring-tools/?utm_source=rss&utm_medium=rss&utm_campaign=3-best-website-uptime-monitoring-tools)
+- [8 Best Wedding Website Builder and Templates of 2022 &lpar;Compared&rpar;](https://www.bwalkerwebdev.com/2022/07/01/8-best-wedding-website-builder-and-templates-of-2022-compared/?utm_source=rss&utm_medium=rss&utm_campaign=8-best-wedding-website-builder-and-templates-of-2022-compared)
+- [How to Moderate New User Registrations in WordPress](https://www.bwalkerwebdev.com/2022/07/01/how-to-moderate-new-user-registrations-in-wordpress/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-moderate-new-user-registrations-in-wordpress)
 - [Sprout on Sprout: How to communicate social media marketing priorities to outside stakeholders](https://www.bwalkerwebdev.com/2022/06/30/sprout-on-sprout-how-to-communicate-social-media-marketing-priorities-to-outside-stakeholders/?utm_source=rss&utm_medium=rss&utm_campaign=sprout-on-sprout-how-to-communicate-social-media-marketing-priorities-to-outside-stakeholders)
-- [How to Add an Author’s Photo in WordPress](https://www.bwalkerwebdev.com/2022/06/30/how-to-add-an-authors-photo-in-wordpress/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-add-an-authors-photo-in-wordpress)
-- [How to Add a Wishlist to Your WooCommerce Store](https://www.bwalkerwebdev.com/2022/06/30/how-to-add-a-wishlist-to-your-woocommerce-store/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-add-a-wishlist-to-your-woocommerce-store)
-- [How to Import External Images in WordPress](https://www.bwalkerwebdev.com/2022/06/29/how-to-import-external-images-in-wordpress/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-import-external-images-in-wordpress)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
