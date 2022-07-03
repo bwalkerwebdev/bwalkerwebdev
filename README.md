@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Disable RSS Feeds in WordPress](https://www.bwalkerwebdev.com/2022/07/02/how-to-disable-rss-feeds-in-wordpress/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-disable-rss-feeds-in-wordpress)
 - [3 Best Website Uptime Monitoring Tools](https://www.bwalkerwebdev.com/2022/07/01/3-best-website-uptime-monitoring-tools/?utm_source=rss&utm_medium=rss&utm_campaign=3-best-website-uptime-monitoring-tools)
 - [8 Best Wedding Website Builder and Templates of 2022 &lpar;Compared&rpar;](https://www.bwalkerwebdev.com/2022/07/01/8-best-wedding-website-builder-and-templates-of-2022-compared/?utm_source=rss&utm_medium=rss&utm_campaign=8-best-wedding-website-builder-and-templates-of-2022-compared)
 - [How to Moderate New User Registrations in WordPress](https://www.bwalkerwebdev.com/2022/07/01/how-to-moderate-new-user-registrations-in-wordpress/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-moderate-new-user-registrations-in-wordpress)
-- [Sprout on Sprout: How to communicate social media marketing priorities to outside stakeholders](https://www.bwalkerwebdev.com/2022/06/30/sprout-on-sprout-how-to-communicate-social-media-marketing-priorities-to-outside-stakeholders/?utm_source=rss&utm_medium=rss&utm_campaign=sprout-on-sprout-how-to-communicate-social-media-marketing-priorities-to-outside-stakeholders)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
