@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [WPBeginner Turns 13 Years Old – Reflections and Updates](https://www.bwalkerwebdev.com/2022/07/04/wpbeginner-turns-13-years-old-reflections-and-updates/?utm_source=rss&utm_medium=rss&utm_campaign=wpbeginner-turns-13-years-old-reflections-and-updates)
+- [How to Show Different Menus to Logged in Users in WordPress](https://www.bwalkerwebdev.com/2022/07/04/how-to-show-different-menus-to-logged-in-users-in-wordpress/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-show-different-menus-to-logged-in-users-in-wordpress)
 - [How to Disable RSS Feeds in WordPress](https://www.bwalkerwebdev.com/2022/07/02/how-to-disable-rss-feeds-in-wordpress/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-disable-rss-feeds-in-wordpress)
 - [3 Best Website Uptime Monitoring Tools](https://www.bwalkerwebdev.com/2022/07/01/3-best-website-uptime-monitoring-tools/?utm_source=rss&utm_medium=rss&utm_campaign=3-best-website-uptime-monitoring-tools)
-- [8 Best Wedding Website Builder and Templates of 2022 &lpar;Compared&rpar;](https://www.bwalkerwebdev.com/2022/07/01/8-best-wedding-website-builder-and-templates-of-2022-compared/?utm_source=rss&utm_medium=rss&utm_campaign=8-best-wedding-website-builder-and-templates-of-2022-compared)
-- [How to Moderate New User Registrations in WordPress](https://www.bwalkerwebdev.com/2022/07/01/how-to-moderate-new-user-registrations-in-wordpress/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-moderate-new-user-registrations-in-wordpress)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
