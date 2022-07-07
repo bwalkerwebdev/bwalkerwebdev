@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to host an Instagram takeover in 7 steps](https://www.bwalkerwebdev.com/2022/07/05/how-to-host-an-instagram-takeover-in-7-steps/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-host-an-instagram-takeover-in-7-steps)
-- [15 YouTube Video Ideas to Inspire Your Brand’s Channel](https://www.bwalkerwebdev.com/2022/07/05/15-youtube-video-ideas-to-inspire-your-brands-channel/?utm_source=rss&utm_medium=rss&utm_campaign=15-youtube-video-ideas-to-inspire-your-brands-channel)
-- [How to Change the Category Base Prefix in WordPress](https://www.bwalkerwebdev.com/2022/07/05/how-to-change-the-category-base-prefix-in-wordpress/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-change-the-category-base-prefix-in-wordpress)
-- [WPBeginner Turns 13 Years Old – Reflections and Updates](https://www.bwalkerwebdev.com/2022/07/04/wpbeginner-turns-13-years-old-reflections-and-updates/?utm_source=rss&utm_medium=rss&utm_campaign=wpbeginner-turns-13-years-old-reflections-and-updates)
+- [In bull or bear markets, social media intelligence makes all the difference](https://www.bwalkerwebdev.com/2022/07/06/in-bull-or-bear-markets-social-media-intelligence-makes-all-the-difference/?utm_source=rss&utm_medium=rss&utm_campaign=in-bull-or-bear-markets-social-media-intelligence-makes-all-the-difference)
+- [The best times to post on Twitter 2022](https://www.bwalkerwebdev.com/2022/07/06/the-best-times-to-post-on-twitter-2022/?utm_source=rss&utm_medium=rss&utm_campaign=the-best-times-to-post-on-twitter-2022)
+- [The best times to post on Facebook 2022](https://www.bwalkerwebdev.com/2022/07/06/the-best-times-to-post-on-facebook-2022/?utm_source=rss&utm_medium=rss&utm_campaign=the-best-times-to-post-on-facebook-2022)
+- [How to Do Keyword Research for Your WordPress Blog](https://www.bwalkerwebdev.com/2022/07/06/how-to-do-keyword-research-for-your-wordpress-blog/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-do-keyword-research-for-your-wordpress-blog)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
