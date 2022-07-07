@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What marketers need to know about YouTube Creator Studio](https://www.bwalkerwebdev.com/2022/07/07/what-marketers-need-to-know-about-youtube-creator-studio/?utm_source=rss&utm_medium=rss&utm_campaign=what-marketers-need-to-know-about-youtube-creator-studio)
+- [Social media careers: The skills you need, where to look and jobs to consider](https://www.bwalkerwebdev.com/2022/07/07/social-media-careers-the-skills-you-need-where-to-look-and-jobs-to-consider/?utm_source=rss&utm_medium=rss&utm_campaign=social-media-careers-the-skills-you-need-where-to-look-and-jobs-to-consider)
 - [In bull or bear markets, social media intelligence makes all the difference](https://www.bwalkerwebdev.com/2022/07/06/in-bull-or-bear-markets-social-media-intelligence-makes-all-the-difference/?utm_source=rss&utm_medium=rss&utm_campaign=in-bull-or-bear-markets-social-media-intelligence-makes-all-the-difference)
 - [The best times to post on Twitter 2022](https://www.bwalkerwebdev.com/2022/07/06/the-best-times-to-post-on-twitter-2022/?utm_source=rss&utm_medium=rss&utm_campaign=the-best-times-to-post-on-twitter-2022)
-- [The best times to post on Facebook 2022](https://www.bwalkerwebdev.com/2022/07/06/the-best-times-to-post-on-facebook-2022/?utm_source=rss&utm_medium=rss&utm_campaign=the-best-times-to-post-on-facebook-2022)
-- [How to Do Keyword Research for Your WordPress Blog](https://www.bwalkerwebdev.com/2022/07/06/how-to-do-keyword-research-for-your-wordpress-blog/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-do-keyword-research-for-your-wordpress-blog)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
