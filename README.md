@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to conduct a YouTube audit in 5 steps](https://www.bwalkerwebdev.com/2022/07/11/how-to-conduct-a-youtube-audit-in-5-steps/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-conduct-a-youtube-audit-in-5-steps)
 - [How to Add Taxonomy Images &lpar;Category Icons&rpar; in WordPress](https://www.bwalkerwebdev.com/2022/07/10/how-to-add-taxonomy-images-category-icons-in-wordpress/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-add-taxonomy-images-category-icons-in-wordpress)
 - [How to Add Old Post Notification on Your WordPress Blog](https://www.bwalkerwebdev.com/2022/07/09/how-to-add-old-post-notification-on-your-wordpress-blog/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-add-old-post-notification-on-your-wordpress-blog)
 - [Quiz: The Super-Difficult Website Speed Quiz](https://www.bwalkerwebdev.com/2022/07/08/quiz-the-super-difficult-website-speed-quiz/?utm_source=rss&utm_medium=rss&utm_campaign=quiz-the-super-difficult-website-speed-quiz)
-- [5 Best WordPress Ecommerce Plugins Compared – 2022](https://www.bwalkerwebdev.com/2022/07/08/5-best-wordpress-ecommerce-plugins-compared-2022/?utm_source=rss&utm_medium=rss&utm_campaign=5-best-wordpress-ecommerce-plugins-compared-2022)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
