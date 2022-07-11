@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Add Taxonomy Images &lpar;Category Icons&rpar; in WordPress](https://www.bwalkerwebdev.com/2022/07/10/how-to-add-taxonomy-images-category-icons-in-wordpress/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-add-taxonomy-images-category-icons-in-wordpress)
 - [How to Add Old Post Notification on Your WordPress Blog](https://www.bwalkerwebdev.com/2022/07/09/how-to-add-old-post-notification-on-your-wordpress-blog/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-add-old-post-notification-on-your-wordpress-blog)
 - [Quiz: The Super-Difficult Website Speed Quiz](https://www.bwalkerwebdev.com/2022/07/08/quiz-the-super-difficult-website-speed-quiz/?utm_source=rss&utm_medium=rss&utm_campaign=quiz-the-super-difficult-website-speed-quiz)
 - [5 Best WordPress Ecommerce Plugins Compared – 2022](https://www.bwalkerwebdev.com/2022/07/08/5-best-wordpress-ecommerce-plugins-compared-2022/?utm_source=rss&utm_medium=rss&utm_campaign=5-best-wordpress-ecommerce-plugins-compared-2022)
-- [What marketers need to know about YouTube Creator Studio](https://www.bwalkerwebdev.com/2022/07/07/what-marketers-need-to-know-about-youtube-creator-studio/?utm_source=rss&utm_medium=rss&utm_campaign=what-marketers-need-to-know-about-youtube-creator-studio)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
