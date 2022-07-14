@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Social media in Europe: 15 stats to inform your strategy](https://www.bwalkerwebdev.com/2022/07/13/social-media-in-europe-15-stats-to-inform-your-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=social-media-in-europe-15-stats-to-inform-your-strategy)
 - [How to get verified on TikTok: 6 tips and tricks](https://www.bwalkerwebdev.com/2022/07/12/how-to-get-verified-on-tiktok-6-tips-and-tricks/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-get-verified-on-tiktok-6-tips-and-tricks)
 - [Beginner’s Guide to WordPress Image Sizes &lpar;+ Best Practices&rpar;](https://www.bwalkerwebdev.com/2022/07/12/beginners-guide-to-wordpress-image-sizes-best-practices/?utm_source=rss&utm_medium=rss&utm_campaign=beginners-guide-to-wordpress-image-sizes-best-practices)
 - [How to conduct a YouTube audit in 5 steps](https://www.bwalkerwebdev.com/2022/07/11/how-to-conduct-a-youtube-audit-in-5-steps/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-conduct-a-youtube-audit-in-5-steps)
-- [How to Make a Multi Vendor Ecommerce Website with WordPress](https://www.bwalkerwebdev.com/2022/07/11/how-to-make-a-multi-vendor-ecommerce-website-with-wordpress/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-make-a-multi-vendor-ecommerce-website-with-wordpress)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
