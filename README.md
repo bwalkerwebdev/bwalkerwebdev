@@ -23,8 +23,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [9 clever ways to maximize the value of Pinterest for business](https://www.bwalkerwebdev.com/2022/07/14/9-clever-ways-to-maximize-the-value-of-pinterest-for-business/?utm_source=rss&utm_medium=rss&utm_campaign=9-clever-ways-to-maximize-the-value-of-pinterest-for-business)
 - [The Metaverse: What it is and why it matters for brands](https://www.bwalkerwebdev.com/2022/07/14/the-metaverse-what-it-is-and-why-it-matters-for-brands/?utm_source=rss&utm_medium=rss&utm_campaign=the-metaverse-what-it-is-and-why-it-matters-for-brands)
+- [How to Upgrade jQuery to Latest Version in WordPress](https://www.bwalkerwebdev.com/2022/07/14/how-to-upgrade-jquery-to-latest-version-in-wordpress/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-upgrade-jquery-to-latest-version-in-wordpress)
 - [Social media in Europe: 15 stats to inform your strategy](https://www.bwalkerwebdev.com/2022/07/13/social-media-in-europe-15-stats-to-inform-your-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=social-media-in-europe-15-stats-to-inform-your-strategy)
-- [How To Add Social Login To WordPress &lpar;The Easy Way&rpar;](https://www.bwalkerwebdev.com/2022/07/13/how-to-add-social-login-to-wordpress-the-easy-way/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-add-social-login-to-wordpress-the-easy-way)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
