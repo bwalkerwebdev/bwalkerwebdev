@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [9 clever ways to maximize the value of Pinterest for business](https://www.bwalkerwebdev.com/2022/07/14/9-clever-ways-to-maximize-the-value-of-pinterest-for-business/?utm_source=rss&utm_medium=rss&utm_campaign=9-clever-ways-to-maximize-the-value-of-pinterest-for-business)
+- [The Metaverse: What it is and why it matters for brands](https://www.bwalkerwebdev.com/2022/07/14/the-metaverse-what-it-is-and-why-it-matters-for-brands/?utm_source=rss&utm_medium=rss&utm_campaign=the-metaverse-what-it-is-and-why-it-matters-for-brands)
 - [Social media in Europe: 15 stats to inform your strategy](https://www.bwalkerwebdev.com/2022/07/13/social-media-in-europe-15-stats-to-inform-your-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=social-media-in-europe-15-stats-to-inform-your-strategy)
 - [How To Add Social Login To WordPress &lpar;The Easy Way&rpar;](https://www.bwalkerwebdev.com/2022/07/13/how-to-add-social-login-to-wordpress-the-easy-way/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-add-social-login-to-wordpress-the-easy-way)
-- [How to get verified on TikTok: 6 tips and tricks](https://www.bwalkerwebdev.com/2022/07/12/how-to-get-verified-on-tiktok-6-tips-and-tricks/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-get-verified-on-tiktok-6-tips-and-tricks)
-- [Beginner’s Guide to WordPress Image Sizes &lpar;+ Best Practices&rpar;](https://www.bwalkerwebdev.com/2022/07/12/beginners-guide-to-wordpress-image-sizes-best-practices/?utm_source=rss&utm_medium=rss&utm_campaign=beginners-guide-to-wordpress-image-sizes-best-practices)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
