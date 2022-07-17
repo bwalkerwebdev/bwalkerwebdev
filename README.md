@@ -22,9 +22,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [YouTube influencer marketing guide to boosting brand awareness](https://www.bwalkerwebdev.com/2022/07/15/youtube-influencer-marketing-guide-to-boosting-brand-awareness/?utm_source=rss&utm_medium=rss&utm_campaign=youtube-influencer-marketing-guide-to-boosting-brand-awareness)
+- [How to Get Word Count Stats in WordPress &lpar;3 Ways&rpar;](https://www.bwalkerwebdev.com/2022/07/15/how-to-get-word-count-stats-in-wordpress-3-ways/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-get-word-count-stats-in-wordpress-3-ways)
 - [9 clever ways to maximize the value of Pinterest for business](https://www.bwalkerwebdev.com/2022/07/14/9-clever-ways-to-maximize-the-value-of-pinterest-for-business/?utm_source=rss&utm_medium=rss&utm_campaign=9-clever-ways-to-maximize-the-value-of-pinterest-for-business)
 - [The Metaverse: What it is and why it matters for brands](https://www.bwalkerwebdev.com/2022/07/14/the-metaverse-what-it-is-and-why-it-matters-for-brands/?utm_source=rss&utm_medium=rss&utm_campaign=the-metaverse-what-it-is-and-why-it-matters-for-brands)
-- [How to Upgrade jQuery to Latest Version in WordPress](https://www.bwalkerwebdev.com/2022/07/14/how-to-upgrade-jquery-to-latest-version-in-wordpress/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-upgrade-jquery-to-latest-version-in-wordpress)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
