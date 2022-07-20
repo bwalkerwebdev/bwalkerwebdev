@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is hashtagging and how to use it effectively](https://www.bwalkerwebdev.com/2022/07/19/what-is-hashtagging-and-how-to-use-it-effectively/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-hashtagging-and-how-to-use-it-effectively)
+- [Breaking down BookTok: What brands can learn from this social-literary phenomenon](https://www.bwalkerwebdev.com/2022/07/18/breaking-down-booktok-what-brands-can-learn-from-this-social-literary-phenomenon/?utm_source=rss&utm_medium=rss&utm_campaign=breaking-down-booktok-what-brands-can-learn-from-this-social-literary-phenomenon)
+- [Top 10 social media apps and sites in 2022](https://www.bwalkerwebdev.com/2022/07/18/top-10-social-media-apps-and-sites-in-2022/?utm_source=rss&utm_medium=rss&utm_campaign=top-10-social-media-apps-and-sites-in-2022)
 - [How to Add Custom Fields to Comments Form in WordPress](https://www.bwalkerwebdev.com/2022/07/17/how-to-add-custom-fields-to-comments-form-in-wordpress/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-add-custom-fields-to-comments-form-in-wordpress)
-- [How Much Does a Custom WordPress Theme Cost?](https://www.bwalkerwebdev.com/2022/07/16/how-much-does-a-custom-wordpress-theme-cost/?utm_source=rss&utm_medium=rss&utm_campaign=how-much-does-a-custom-wordpress-theme-cost)
-- [YouTube influencer marketing guide to boosting brand awareness](https://www.bwalkerwebdev.com/2022/07/15/youtube-influencer-marketing-guide-to-boosting-brand-awareness/?utm_source=rss&utm_medium=rss&utm_campaign=youtube-influencer-marketing-guide-to-boosting-brand-awareness)
-- [How to Get Word Count Stats in WordPress &lpar;3 Ways&rpar;](https://www.bwalkerwebdev.com/2022/07/15/how-to-get-word-count-stats-in-wordpress-3-ways/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-get-word-count-stats-in-wordpress-3-ways)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
