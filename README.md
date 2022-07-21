@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Enterprise social media: 15 tools your organization should use in 2022](https://www.bwalkerwebdev.com/2022/07/20/enterprise-social-media-15-tools-your-organization-should-use-in-2022/?utm_source=rss&utm_medium=rss&utm_campaign=enterprise-social-media-15-tools-your-organization-should-use-in-2022)
 - [What is hashtagging and how to use it effectively](https://www.bwalkerwebdev.com/2022/07/19/what-is-hashtagging-and-how-to-use-it-effectively/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-hashtagging-and-how-to-use-it-effectively)
 - [Breaking down BookTok: What brands can learn from this social-literary phenomenon](https://www.bwalkerwebdev.com/2022/07/18/breaking-down-booktok-what-brands-can-learn-from-this-social-literary-phenomenon/?utm_source=rss&utm_medium=rss&utm_campaign=breaking-down-booktok-what-brands-can-learn-from-this-social-literary-phenomenon)
 - [Top 10 social media apps and sites in 2022](https://www.bwalkerwebdev.com/2022/07/18/top-10-social-media-apps-and-sites-in-2022/?utm_source=rss&utm_medium=rss&utm_campaign=top-10-social-media-apps-and-sites-in-2022)
-- [How to Create an Author Website in WordPress &lpar;Step by Step&rpar;](https://www.bwalkerwebdev.com/2022/07/18/how-to-create-an-author-website-in-wordpress-step-by-step/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-create-an-author-website-in-wordpress-step-by-step)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
