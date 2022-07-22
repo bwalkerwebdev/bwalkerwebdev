@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [14 types of social media every marketer should know](https://www.bwalkerwebdev.com/2022/07/21/14-types-of-social-media-every-marketer-should-know/?utm_source=rss&utm_medium=rss&utm_campaign=14-types-of-social-media-every-marketer-should-know)
 - [Enterprise social media: 15 tools your organization should use in 2022](https://www.bwalkerwebdev.com/2022/07/20/enterprise-social-media-15-tools-your-organization-should-use-in-2022/?utm_source=rss&utm_medium=rss&utm_campaign=enterprise-social-media-15-tools-your-organization-should-use-in-2022)
 - [What is hashtagging and how to use it effectively](https://www.bwalkerwebdev.com/2022/07/19/what-is-hashtagging-and-how-to-use-it-effectively/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-hashtagging-and-how-to-use-it-effectively)
 - [How to Connect Multiple WordPress Sites Together &lpar;3 Ways&rpar;](https://www.bwalkerwebdev.com/2022/07/19/how-to-connect-multiple-wordpress-sites-together-3-ways/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-connect-multiple-wordpress-sites-together-3-ways)
-- [Breaking down BookTok: What brands can learn from this social-literary phenomenon](https://www.bwalkerwebdev.com/2022/07/18/breaking-down-booktok-what-brands-can-learn-from-this-social-literary-phenomenon/?utm_source=rss&utm_medium=rss&utm_campaign=breaking-down-booktok-what-brands-can-learn-from-this-social-literary-phenomenon)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
