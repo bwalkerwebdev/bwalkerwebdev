@@ -23,8 +23,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [14 types of social media every marketer should know](https://www.bwalkerwebdev.com/2022/07/21/14-types-of-social-media-every-marketer-should-know/?utm_source=rss&utm_medium=rss&utm_campaign=14-types-of-social-media-every-marketer-should-know)
 - [Enterprise social media: 15 tools your organization should use in 2022](https://www.bwalkerwebdev.com/2022/07/20/enterprise-social-media-15-tools-your-organization-should-use-in-2022/?utm_source=rss&utm_medium=rss&utm_campaign=enterprise-social-media-15-tools-your-organization-should-use-in-2022)
+- [How to Allow Users to Upload Images in WordPress Comments](https://www.bwalkerwebdev.com/2022/07/20/how-to-allow-users-to-upload-images-in-wordpress-comments/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-allow-users-to-upload-images-in-wordpress-comments)
 - [What is hashtagging and how to use it effectively](https://www.bwalkerwebdev.com/2022/07/19/what-is-hashtagging-and-how-to-use-it-effectively/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-hashtagging-and-how-to-use-it-effectively)
-- [How to Connect Multiple WordPress Sites Together &lpar;3 Ways&rpar;](https://www.bwalkerwebdev.com/2022/07/19/how-to-connect-multiple-wordpress-sites-together-3-ways/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-connect-multiple-wordpress-sites-together-3-ways)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
