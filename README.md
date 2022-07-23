@@ -22,9 +22,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [14 types of social media every marketer should know](https://www.bwalkerwebdev.com/2022/07/21/14-types-of-social-media-every-marketer-should-know/?utm_source=rss&utm_medium=rss&utm_campaign=14-types-of-social-media-every-marketer-should-know)
+- [How to Fix Upside Down or Flipped Images in WordPress](https://www.bwalkerwebdev.com/2022/07/21/how-to-fix-upside-down-or-flipped-images-in-wordpress/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-fix-upside-down-or-flipped-images-in-wordpress)
 - [Enterprise social media: 15 tools your organization should use in 2022](https://www.bwalkerwebdev.com/2022/07/20/enterprise-social-media-15-tools-your-organization-should-use-in-2022/?utm_source=rss&utm_medium=rss&utm_campaign=enterprise-social-media-15-tools-your-organization-should-use-in-2022)
 - [How to Allow Users to Upload Images in WordPress Comments](https://www.bwalkerwebdev.com/2022/07/20/how-to-allow-users-to-upload-images-in-wordpress-comments/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-allow-users-to-upload-images-in-wordpress-comments)
-- [What is hashtagging and how to use it effectively](https://www.bwalkerwebdev.com/2022/07/19/what-is-hashtagging-and-how-to-use-it-effectively/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-hashtagging-and-how-to-use-it-effectively)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
