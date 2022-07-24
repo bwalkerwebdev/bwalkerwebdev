@@ -21,10 +21,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Sell Digital Art and Graphics Online &lpar;The Easy Way&rpar;](https://www.bwalkerwebdev.com/2022/07/22/how-to-sell-digital-art-and-graphics-online-the-easy-way/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-sell-digital-art-and-graphics-online-the-easy-way)
 - [14 types of social media every marketer should know](https://www.bwalkerwebdev.com/2022/07/21/14-types-of-social-media-every-marketer-should-know/?utm_source=rss&utm_medium=rss&utm_campaign=14-types-of-social-media-every-marketer-should-know)
 - [How to Fix Upside Down or Flipped Images in WordPress](https://www.bwalkerwebdev.com/2022/07/21/how-to-fix-upside-down-or-flipped-images-in-wordpress/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-fix-upside-down-or-flipped-images-in-wordpress)
 - [Enterprise social media: 15 tools your organization should use in 2022](https://www.bwalkerwebdev.com/2022/07/20/enterprise-social-media-15-tools-your-organization-should-use-in-2022/?utm_source=rss&utm_medium=rss&utm_campaign=enterprise-social-media-15-tools-your-organization-should-use-in-2022)
-- [How to Allow Users to Upload Images in WordPress Comments](https://www.bwalkerwebdev.com/2022/07/20/how-to-allow-users-to-upload-images-in-wordpress-comments/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-allow-users-to-upload-images-in-wordpress-comments)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
